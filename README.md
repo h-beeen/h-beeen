@@ -1,8 +1,7 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=soft&height=200&text="Happy%20Hae-Bin's%20GitHub"&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=soft&height=200&text="🤞%20Happy%20Hae-Bin's%20GitHub%20🤞"&fontSize=45)
   
-  🤞</b> Happy Hae-bin's Github 🤞 </h1>
 
 <h4> [[&nbsp;&nbsp;&nbsp;Profile&nbsp;&nbsp;&nbsp;]] </h4>
 

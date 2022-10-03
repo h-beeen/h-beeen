@@ -3,7 +3,7 @@
 <h4> Profile </h4>
 <p>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <br/
-  <b>🚀&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/42_Seoul-000000?style=flat-square&logo=42&logoColor=white"/> <A HREF="http://instagram.com/h.beeen">&nbsp;42 Seoul</b> Pisciner (8-2)<br/>
+  <b>🚀&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/42_Seoul-000000?style=flat-square&logo=42&logoColor=white"/> <A HREF="http://instagram.com/h.beeen">&nbsp;</b> Pisciner (8-2)<br/>
   <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 경제학, 융합데이터공학전공<br/>
     <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 컴퓨터공학전공 개발동아리 InQ<br/>
 </p>

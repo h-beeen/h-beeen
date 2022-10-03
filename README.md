@@ -1,5 +1,6 @@
 ### 🤞  </b> Nice way to meet h.beeen 
 <h4> Profile </h4>
+<img src="https://img.shields.io/badge/C++-000060?/style=flat-square&logo=Instagram%2B%2B&logoColor=white"/>
 <p>
   <b>🚀&nbsp;&nbsp;&nbsp;42 SeoulPisciner (8-2)<br/>
   <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 경제학, 융합데이터공학전공<br/>
@@ -15,5 +16,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </p>
 
-
+<img src="https://img.shields.io/badge/C++-000060?/style=flat-square&logo=C%2B%2B&logoColor=white"/>
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-beeen)](https://github.com/anuraghazra/github-readme-stats)    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-beeen&show_icons=true&theme=radical)

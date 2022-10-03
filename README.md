@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Hello%20World!&fontSize=20&rotate=5&desc=Happy%20Haebin's%20Github&&descAlign=80&descAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Hello%20World!&fontSize=15&rotate=5&desc=Happy%20Haebin's%20Github&&descAlign=80&descAlignY=35)
   
   🤞</b> Happy Hae-bin's Github 🤞 </h1>
 

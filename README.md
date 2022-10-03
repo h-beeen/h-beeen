@@ -1,6 +1,6 @@
 ### 🤞  </b> Nice way to meet h.beeen 
 <h4> Profile </h4>
-<img src="https://img.shields.io/badge/C++-000060?/style=flat-square&logo=Instagram%2B%2B&logoColor=white"/>
+
 <p>
   <b>🚀&nbsp;&nbsp;&nbsp;42 SeoulPisciner (8-2)<br/>
   <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 경제학, 융합데이터공학전공<br/>

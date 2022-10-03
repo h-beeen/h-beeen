@@ -1,6 +1,6 @@
 ### 🤞 Nice way to meet h.beeen
 <p>
-<img src="https://img.shields.io/badge/42_Seoul-000000?style=flat-square&logo=42&logoColor=white"/> <img src="https://img.shields.io/badge/@h.beeen-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/42_Seoul-000000?style=flat-square&logo=42&logoColor=white"/> <A HREF="http://instagram.com/h.beeen"><img src="https://img.shields.io/badge/@h.beeen-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </p>
 
 <h4> Profile </h4>

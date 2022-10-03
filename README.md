@@ -1,17 +1,11 @@
-### 🤞 Nice way to meet me
+### 🤞 Nice way to meet h.beeen
 <p>
 <img src="https://img.shields.io/badge/42_Seoul-000000?style=flat-square&logo=42&logoColor=white"/> <img src="https://img.shields.io/badge/joker7011@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/@h.beeen-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Junior developer</b> skilled in Web.🚀<br/>
-  For the past year, I have been interested in creating Website with Spring.<br/>
-  I hope to develop every beautiful things. ✨ <br/>
-</p>
-
-<p>
-  <b>✔️ 경기대학교</b> 경제학, 융합데이터공학전공<br/>
-  <b>✔️ 42 Seoul</b> Pisciner
+  <b>🚀 경기대학교</b> 경제학, 융합데이터공학전공<br/>
+  <b>🚀 42 Seoul</b> Pisciner
 </p>
 <h4> Skills </h4>
 

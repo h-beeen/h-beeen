@@ -1,7 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=H.beeen%20's%20GitHub&fontSize=90)
-<h1>
+!![header](https://capsule-render.vercel.app/api?type=wave&color=FFCD00&height=450&section=header&text=HB's GitHub 👋&fontSize=90)
   
   🤞</b> Happy Hae-bin's Github 🤞 </h1>
 

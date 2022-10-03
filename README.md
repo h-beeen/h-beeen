@@ -1,7 +1,7 @@
 <div align="center">
 <h1> 🤞</b> Nice way to meet h.beeen 🤞 </h1>
 
-<h2> [[ Profile ]] </h2>
+<h2> [[&nbsp;&nbsp;&nbsp;Profile&nbsp;&nbsp;&nbsp;]] </h2>
 
 <p>
   <b>🚀&nbsp;&nbsp;&nbsp;42 Seoul Pisciner (8-2)&nbsp;&nbsp;&nbsp;🚀<br/>
@@ -10,7 +10,7 @@
     
 
 
-<h2> [[ Skills ]] </h2>
+<h2> [[&nbsp;&nbsp;&nbsp;Skills&nbsp;&nbsp;&nbsp;]] </h2>
 
 <p>
 <img src="https://img.shields.io/badge/C++-000060?/style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F80000?/style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?/style=flat-square&logo=Python&logoColor=white"/>

@@ -16,6 +16,6 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </p>
 
-<A HREF = "instagram.com/h.beeen"><img src="https://img.shields.io/badge/Instagram-E4405F?/style=flat-square&logo=Instagram&logoColor=white"/></A>
+<A HREF = "instagram.com/h.beeen"><img src="https://img.shields.io/badge/Instagram-E4405F?/style=flat-square&logo=Instagram&logoColor=white"/> </A>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-beeen&show_icons=true&theme=radical)

@@ -1,5 +1,9 @@
 <div align="center">
-<h1> 🤞</b> Nice way to meet h.beeen 🤞 </h1>
+  
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<h1>
+  
+  🤞</b> Nice way to meet h.beeen 🤞 </h1>
 
 <h4> [[&nbsp;&nbsp;&nbsp;Profile&nbsp;&nbsp;&nbsp;]] </h4>
 

@@ -6,11 +6,11 @@
 <p>
   👋&nbsp; Hi there! I'm <b>Junior developer</b> skilled in Web.🚀<br/>
   For the past year, I have been interested in creating Website with Spring.<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  I hope to develop every beautiful things. ✨ <br/>
 </p>
 
 <p>
-  Kyonggi Univ. Economics, Fusion-Data Enginerring
+  <b>Kyonggi Univ.</b> Economics, Fusion-Data Enginerring<br/>
   42 Seoul. Pisciner.
 </p>
 <h4> Skills </h4>

@@ -3,4 +3,5 @@
 <h4>개발이 즐거운 Junior Developer</h4>
 
 <p> Languages </p>
+
 <img src="https://img.shields.io/badge/C++-000000?/style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-000000?/style=flat-square&logo=Jameson&logoColor=white"/> 

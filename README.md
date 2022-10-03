@@ -15,7 +15,8 @@
 <img src="https://img.shields.io/badge/C++-000060?/style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F80000?/style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?/style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </p>
-
-<A HREF = "instagram.com/h.beeen"><img src="https://img.shields.io/badge/Instagram-E4405F?/style=flat-square&logo=Instagram&logoColor=white"/> </A>
+    
+<h4> Contact </h4>
+<A HREF = "instagram.com/h.beeen"><img src="https://img.shields.io/badge/Instagram-E4405F?/style=flat-square&logo=Instagram&logoColor=white"></A>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-beeen&show_icons=true&theme=radical)

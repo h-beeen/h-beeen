@@ -10,8 +10,7 @@
 </p>
 <h4> Languages </h4>
 
+<p>
 <img src="https://img.shields.io/badge/C++-000060?/style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F80000?/style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?/style=flat-square&logo=Python&logoColor=white"/>
-
-<h4> Stacks </h4>
-
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+</p>

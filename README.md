@@ -6,11 +6,11 @@
 <p>
   <b>🚀&nbsp;&nbsp;&nbsp;42 Seoul Pisciner (8-2)&nbsp;&nbsp;&nbsp;🚀<br/>
   <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 경제학, 융합데이터공학전공&nbsp;&nbsp;&nbsp;🚀<br/>
-    <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 컴퓨터공학전공 개발동아리 InQ&nbsp;&nbsp;&nbsp;🚀<br/></p>
+    <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 컴퓨터공학전공 개발동아리 InQ&nbsp;&nbsp;&nbsp;🚀<br/><br/></p>
     
 <h4> [[&nbsp;&nbsp;&nbsp;Contact&nbsp;&nbsp;&nbsp;]] </h4>
 <p>
-<A HREF = "http://instagram.com/h.beeen"><img src="https://img.shields.io/badge/Instagram-E4405F?/style=flat-square&logo=Instagram&logoColor=white"></A></p>
+<A HREF = "http://instagram.com/h.beeen"><img src="https://img.shields.io/badge/Instagram-E4405F?/style=flat-square&logo=Instagram&logoColor=white"></A><br/><br/></p>
     
 
 <h4> [[&nbsp;&nbsp;&nbsp;Skills&nbsp;&nbsp;&nbsp;]] </h4>

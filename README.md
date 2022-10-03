@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/42_Seoul-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/42_Seoul-000000?style=flat-square&logo=42&logoColor=white"/>

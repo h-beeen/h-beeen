@@ -1,12 +1,12 @@
 ### 🤞  </b> Nice way to meet h.beeen 
-
+<h4> Profile </h4>
 <p>
   <b>🚀&nbsp;&nbsp;&nbsp;42 SeoulPisciner (8-2)<br/>
   <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 경제학, 융합데이터공학전공<br/>
     <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 컴퓨터공학전공 개발동아리 InQ<br/>
     <b>🚀&nbsp;&nbsp;&nbsp;Contact Me</p>
     
-<h4> Profile </h4>
+
 
 <h4> Skills </h4>
 

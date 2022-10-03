@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFCD00&height=450&section=header&text=soft%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice)
   
   🤞</b> Happy Hae-bin's Github 🤞 </h1>
 

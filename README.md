@@ -5,8 +5,8 @@
 
 <h4> Profile </h4>
 <p>
+  <b>🚀 42 Seoul</b> Pisciner (8-2)
   <b>🚀 경기대학교</b> 경제학, 융합데이터공학전공<br/>
-  <b>🚀 42 Seoul</b> Pisciner
 </p>
 <h4> Skills </h4>
 

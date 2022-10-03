@@ -11,7 +11,7 @@
 
 <p>
   <b>경기대학교 경제학, 융합데이터공학전공<br/>
-  42 Seoul. Pisciner.
+  42 Seoul Pisciner
 </p>
 <h4> Skills </h4>
 

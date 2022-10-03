@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?color=auto&type=soft&height=200&text=🤞%20Happy%20Hae-Bin's%20GitHub%20🤞&fontSize=45&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?color=auto&type=soft&height=200&text=🤞%20Happy%20Hae-Bin's%20GitHub%20🤞&fontSize=45&animation=twinkling&desc="Junior%20Backend%20Developer")
   
 
 <h4> [[&nbsp;&nbsp;&nbsp;Profile&nbsp;&nbsp;&nbsp;]] </h4>

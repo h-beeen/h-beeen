@@ -8,6 +8,11 @@
   For the past year, I have been interested in creating Website with Spring.<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
+
+<p>
+  Kyonggi Univ. Economics, Fusion-Data Enginerring
+  42 Seoul. Pisciner.
+</p>
 <h4> Skills </h4>
 
 <p>

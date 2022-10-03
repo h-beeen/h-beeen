@@ -1,5 +1,6 @@
-### 🤞 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <A HREF="http://instagram.com/h.beeen">&nbsp;</b> Nice way to meet h.beeen 
+### 🤞  </b> Nice way to meet h.beeen 
 
+<A HREF="http://instagram.com/h.beeen">&nbsp;<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <h4> Profile </h4>
 <p>
   <b>🚀&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/000000?style=flat-square&logo=42&logoColor=white"/> 42 SeoulPisciner (8-2)<br/>

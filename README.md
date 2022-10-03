@@ -1,13 +1,13 @@
 ### 🤞  </b> Nice way to meet h.beeen 
-<p> <A HREF="http://instagram.com/h.beeen"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></A></p>
 
 <p>
   <b>🚀&nbsp;&nbsp;&nbsp;42 SeoulPisciner (8-2)<br/>
   <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 경제학, 융합데이터공학전공<br/>
     <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 컴퓨터공학전공 개발동아리 InQ<br/>
-    <b>🚀&nbsp;&nbsp;&nbsp;Contact Me 
+    <b>🚀&nbsp;&nbsp;&nbsp;Contact Me</p>
+    
 <h4> Profile </h4>
-</p>
+
 <h4> Skills </h4>
 
 <p>

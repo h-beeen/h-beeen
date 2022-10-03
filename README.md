@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <h1>
   
-  🤞</b> Nice way to meet h.beeen 🤞 </h1>
+  🤞</b> Happy Hae-bin's Github 🤞 </h1>
 
 <h4> [[&nbsp;&nbsp;&nbsp;Profile&nbsp;&nbsp;&nbsp;]] </h4>
 
@@ -14,7 +14,7 @@
     
 <h4> [[&nbsp;&nbsp;&nbsp;Contact&nbsp;&nbsp;&nbsp;]] </h4>
 <p>
-<A HREF = "http://instagram.com/h.beeen"><img src="https://img.shields.io/badge/Instagram-E4405F?/style=flat-square&logo=Instagram&logoColor=white"></A><br/><br/></p>
+<A HREF = "http://instagram.com/h.beeen"><img src="https://img.shields.io/badge/Instagram-E4405F?/style=flat-square&logo=Instagram&logoColor=white"></A><A HREF = "http://github.com/h-beeen/"><img src="https://img.shields.io/badge/GitHub-181717?/style=flat-square&logo=GitHub&logoColor=white"><br/><br/></p>
     
 
 <h4> [[&nbsp;&nbsp;&nbsp;Skills&nbsp;&nbsp;&nbsp;]] </h4>

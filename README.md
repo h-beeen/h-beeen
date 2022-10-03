@@ -5,9 +5,9 @@
 
 <h4> Profile </h4>
 <p>
-  <b>🚀   42 Seoul</b> Pisciner (8-2)<br/>
-  <b>🚀.  경기대학교</b> 경제학, 융합데이터공학전공<br/>
-    <b>🚀  경기대학교</b> 컴퓨터공학전공 개발동아리 InQ<br/>
+  <b>🚀\t 42 Seoul</b> Pisciner (8-2)<br/>
+  <b>🚀\t  경기대학교</b> 경제학, 융합데이터공학전공<br/>
+    <b>🚀\t 경기대학교</b> 컴퓨터공학전공 개발동아리 InQ<br/>
 </p>
 <h4> Skills </h4>
 

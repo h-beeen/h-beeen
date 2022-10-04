@@ -23,5 +23,5 @@
     
 
     
-  GitHub Readme Stats: (github-readme-stats.vercel.app/api?username={h-beeen}&show_icons=true&theme=highconreast)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-beeen)]
 </div>

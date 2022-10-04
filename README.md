@@ -22,9 +22,6 @@
 <img src="https://img.shields.io/badge/Spring-06DB33F?/style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-06DB33F?/style=flat-square&logo=SpringBoot&logoColor=white"/>
     
 
-<p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-beeen)]
-  </p>
-  <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-beeen&layout=compact)] </p>
 </div>

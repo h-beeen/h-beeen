@@ -23,5 +23,5 @@
     
 
     
-(https://github-readme-stats.vercel.app/api?username={h-beeen}&show_icons=true&theme=highcontrast)
+  GitHub Readme Stats: github-readme-stats.vercel.app/api?username={h-beeen}&show_icons=true&theme=highconreast
 </div>

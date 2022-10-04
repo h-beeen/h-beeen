@@ -24,5 +24,5 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-beeen&theme=highcontrast&show_icons=true)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-beeen&theme=highcontrast&langs_count=3) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-beeen&theme=highcontrast&langs_count=3)&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-beeen&theme=highcontrast&show_icons=true)
 </div>

@@ -23,5 +23,5 @@
     
 
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-beeen&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-beeen&show_icons=true&theme=highcontrast)
 </div>

@@ -24,5 +24,5 @@
 
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-beeen&show_icons=true&theme=highcontrast)
-github-readme-stats.vercel.app/api/top-langs/?username=h-beeen&langs_count=4
+  <p>github-readme-stats.vercel.app/api/top-langs/?username=h-beeen&langs_count=4</p>
 </div>

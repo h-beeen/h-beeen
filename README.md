@@ -20,9 +20,4 @@
 <p>
 <img src="https://img.shields.io/badge/C++-000060?/style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F80000?/style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?/style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-06DB33F?/style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-06DB33F?/style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?/style=flat-square&logo=MySQL&logoColor=white"/>
-    
-
-
-
-/*![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-beeen&theme=highcontrast&langs_count=3)&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-beeen&theme=highcontrast&show_icons=true)*/
 </div>

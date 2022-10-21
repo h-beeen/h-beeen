@@ -2,10 +2,10 @@
   
 ![header](https://capsule-render.vercel.app/api?&color=EEFF00&type=soft&height=200&fontAlignY=45&text=🤞%20Happy%20Hae-Bin's%20GitHub%20🤞&fontSize=45&animation=twinkling&desc="Junior%20Backend%20Developer"&descAlignY=70)
   
-
+<!--
 <h4> [[&nbsp;&nbsp;&nbsp;Profile&nbsp;&nbsp;&nbsp;]]<br/> </h4>
 
-<!--<p>
+<p>
   <b>🚀&nbsp;&nbsp;&nbsp;42 Seoul Pisciner (8-2)&nbsp;&nbsp;&nbsp;🚀<br/>
   <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 경제학, 융합데이터공학전공&nbsp;&nbsp;&nbsp;🚀<br/>
     <b>🚀&nbsp;&nbsp;&nbsp;경기대학교</b> 컴퓨터공학전공 개발동아리 InQ&nbsp;&nbsp;&nbsp;🚀<br/><br/></p>

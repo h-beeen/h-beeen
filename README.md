@@ -37,7 +37,7 @@
 <a>
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=h-beeen&hide=Makefile,HTML,Shell&layout=compact&bg_color=20232A&title_color=1EBBD7&hide_border=true&text_color=fff" width=49.2% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph&">
+<a>
 <img src="https://activity-graph.herokuapp.com/graph?username=h-beeen&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=1EBBD7" width=99.3%/>
 </a>
 

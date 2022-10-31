@@ -1,6 +1,7 @@
 
 
 
+
 <div align="center">
 <br><br><br>
   
@@ -30,14 +31,14 @@
   <img src="https://img.shields.io/badge/42_Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>&nbsp 
   <a href="https://www.instagram.com/h.beeen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h.beeen/"/></a>&nbsp
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img src="https://github-readme-stats.vercel.app/api?username=h-beeen&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=1EBBD7&count_private=true" width=49.2% />
 </a>
-<a href="https://github.com/h-beeen/github-stats-transparent">
- <img src="https://raw.githubusercontent.com/h-beeen/github-stats-transparent/output/generated/languages.svg#gh-dark-mode-only" width=49.2% />
+<a>
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=h-beeen&hide=Makefile,HTML,Shell&layout=compact&bg_color=20232A&title_color=1EBBD7&hide_border=true&text_color=fff" width=49.2% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=h-beeen&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=1EBBD7" width=98%/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph&">
+<img src="https://activity-graph.herokuapp.com/graph?username=h-beeen&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=1EBBD7" width=99.3%/>
 </a>
 
 <br><br><br>

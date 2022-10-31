@@ -1,6 +1,9 @@
 
+<div align="center">
+<br><br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=1ebbd7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Happy%20+Hae-Bin%20Git%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffff00&fontColor=fffff&height=100&section=header&text=HAPPY%20HAE-BIN&fontSize=50&animation=twinkling)
+<br><br><br>
 
 <p align="center"><b>42 Seoul</b> 8th Cadet<br/><b>InQ&nbsp;</b> Develop Club</p>
 <br>
@@ -25,3 +28,16 @@
 </p>
 <br>
 
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=h-beeen&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=1ebbd7&count_private=true" width=49.2% />
+</a>
+<a href="https://github.com/h-beeen/github-stats">
+ <img src="https://raw.githubusercontent.com/h-beeen/github-stats/output/generated/languages.svg" width=49.2% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=h-beeen&theme=react-dark&bg_color=20232a&hide_border=true&line=ffd400&color=1ebbd7" width=98%/>
+</a>
+
+
+<br><br><br>

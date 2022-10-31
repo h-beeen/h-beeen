@@ -9,7 +9,7 @@
 
 <br>
 
-<p align="center"><b>42 Seoul</b> 8th Cadet<br/><b>InQ&nbsp;</b> Develop Club</p>
+<p align="center"><b>42 Seoul</b>&nbsp;&nbsp;8th Cadet<br/><b>InQ&nbsp;&nbsp;</b>Develop Club</p>
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>

@@ -17,7 +17,7 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://www.instagram.com/h-beeen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h-beeen/"/></a>&nbsp
+  <a href="https://www.instagram.com/h-beeen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h.beeen/"/></a>&nbsp
   <a href="mailto:joker7011@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=joker7011@naver.com"/></a>
 </p>
 <br>

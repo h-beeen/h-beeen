@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffff00&height=100&section=header&text=HAPPY%20HAE-BIN&fontSize=50&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffff00&fontColor=ffffff&height=100&section=header&text=HAPPY%20HAE-BIN&fontSize=50&animation=twinkling)
 
 <p align="center"><b>42 Seoul</b> 8th Cadet<br/><b>InQ&nbsp;</b> Develop Club</p>
 <br>

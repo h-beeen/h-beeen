@@ -1,5 +1,6 @@
 
 
+
 <div align="center">
 <br><br><br>
   
@@ -9,7 +10,12 @@
 </p>
 <br/>
 <h3 align="center"><u> 🧸 Me 🧸</u></h3>
-<p align="center"><b>[42 Seoul]</b>&nbsp;&nbsp;8th Cadet&nbsp;&nbsp(a.k.a&nbsp;&nbsp;<b>hbyeon</b>)<br/><b>[InQ]&nbsp;&nbsp;</b>KGU Computer Engineering Development Club</p>
+<p align="center">
+<b>[42 Seoul]</b>&nbsp;&nbsp;8th Cadet&nbsp;&nbsp(a.k.a&nbsp;&nbsp;<b>hbyeon</b>)<br/>
+<b>[KGU]</b>&nbsp;Major in Economics, Intergrated Data Engineering<br/>
+<b>
+<b>[InQ]</b>&nbsp;&nbsp;</b>Backend Developing in KGU Programming Club <b>InQ</b></p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/42_Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>&nbsp 
@@ -28,9 +34,9 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 <br><br>
-<h3 align="center"><u>🛠Certificate🛠</u></h3>
+<h3 align="center"><u>🏃&nbsp;Certificate 🏃</u></h3>
 <p align="center"> A certificate that I acquired </p>
-<h5 align="center">컴퓨터활용능력 1급 / 2021. 07.<br/>SQL Developer(SQLD) / 2022. 06.  </h5><br/>
+<h5 align="center">컴퓨터활용능력 1급 / 2021. 07.<br/>SQL Developer(SQLD) / 2022. 06.<br/></h5><br/>
 <a>
 <img src="https://streak-stats.demolab.com/?user=h-beeen&hide_border=true&background=20232a&stroke=fff&ring=1ebbd7&fire=FFFF00&currStreakNum=FFFF00&sideNums=fff&sideLabels=fff&dates=fff" width=99%/>
 </a>

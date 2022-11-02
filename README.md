@@ -11,7 +11,7 @@
 <br/>
 <h3 align="center"><u> 🧸 Me 🧸</u></h3>
 <p align="center">
-<b>[42 Seoul]</b>&nbsp;&nbsp;8th Cadet&nbsp;&nbsp(a.k.a&nbsp;&nbsp;<b>hbyeon</b>) 2022/11 ~ <br/>
+<b>[42 Seoul]</b>&nbsp;&nbsp;8th Cadet&nbsp;&nbsp(a.k.a&nbsp;&nbsp;<b>hbyeon</b>)&nbsp;&nbsp;2022/11 ~ <br/>
 <b>[KGU]</b>&nbsp;Major in Economics, Intergrated Data Engineering<br/>
 <b>
 <b>[InQ]</b>&nbsp;&nbsp;</b>Backend Developing in KGU Programming Club <b>InQ</b></p>

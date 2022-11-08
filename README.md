@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 <br><br>
 <h3 align="center"><u>🏃&nbsp;Certificate 🏃</u></h3>
-<p align="center"> A certificate that I acquired </p>
+<p align="center"> Certificates that I acquired </p>
 <h5 align="center">컴퓨터활용능력 1급 / 2021. 07.<br/>SQL Developer(SQLD) / 2022. 06.<br/></h5><br/>
 <a>
 <img src="https://streak-stats.demolab.com/?user=h-beeen&hide_border=true&background=20232a&stroke=fff&ring=1ebbd7&fire=FFFF00&currStreakNum=FFFF00&sideNums=fff&sideLabels=fff&dates=fff" width=99%/>

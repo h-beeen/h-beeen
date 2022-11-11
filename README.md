@@ -41,6 +41,9 @@
 <h3 align="center"><u><b>🐤 Collaboration Tools 🐤</b></u></h3>
 <p align="center"> Tools that I can use skillfully </p><br>
 <p align="center">
+  <img src="https://img.shields.io/badge/Git-F05034?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Github-181817?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
+  <br/>
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/>&nbsp;
@@ -49,7 +52,7 @@
 <br/>
 <br>
 <h3 align="center"><u><b>🏃&nbsp;Certificate 🏃</b></u></h3>
-<p align="center"> Certificates that I acquired </p>
+<p align="center"> Certificates that I acquired </p><br/>
 <h5 align="center">컴퓨터활용능력 1급 / 2021. 07.<br/>SQL Developer(SQLD) / 2022. 06.<br/></h5><br/>
 <br/>
 <a>

@@ -49,7 +49,7 @@
 <br/>
 <br>
 <h3 align="center"><u><b>🏃&nbsp;Certificate 🏃</b></u></h3>
-<p align="center"> Certificates that I acquired </p><br/>
+<p align="center"> Certificates that I acquired </p>
 <h5 align="center">컴퓨터활용능력 1급 / 2021. 07.<br/>SQL Developer(SQLD) / 2022. 06.<br/></h5><br/>
 <br/>
 <a>

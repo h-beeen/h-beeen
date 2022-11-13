@@ -56,7 +56,7 @@
 <h5 align="center">컴퓨터활용능력 1급 / 2021. 07.<br/>SQL Developer(SQLD) / 2022. 06.<br/></h5><br/>
 <br/>
 <a>
-<img src="https://streak-stats.demolab.com/?user=h-beeen&hide_border=true&background=20232a&stroke=fff&ring=1ebbd7&fire=FFFF00&currStreakNum=FFFF00&sideNums=fff&sideLabels=fff&dates=fff" width=95%/>
+<img src="https://streak-stats.demolab.com/?user=h-beeen&hide_border=true&background=20232a&stroke=fff&ring=1ebbd7&fire=FFFF00&currStreakNum=FFFF00&sideNums=fff&sideLabels=fff&dates=fff" width=96.5%/>
 </a>
 <a>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=joker7011" width=42.85% />

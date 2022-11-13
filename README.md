@@ -58,7 +58,7 @@
 <a>
 <img src="https://streak-stats.demolab.com/?user=h-beeen&hide_border=true&background=20232a&stroke=fff&ring=1ebbd7&fire=FFFF00&currStreakNum=FFFF00&sideNums=fff&sideLabels=fff&dates=fff" width=49.55%/>
 </a>
-<img src="hhttp://mazassumnida.wtf/api/generate_badge?boj=joker7011" width=49.55%/>
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=joker7011" width=49.55%/>
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=h-beeen&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=1EBBD7&count_private=true" width=49.55% />
 </a>

@@ -51,9 +51,10 @@
 </p>
 </br>
 <a>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=joker7011" width=42.85% />
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=joker7011" width=40% />
 </a>
+</br>
 <a>
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=h-beeen&hide=Makefile,HTML,Shell&layout=compact&bg_color=20232A&title_color=1EBBD7&hide_border=true&text_color=fff" width=52.64% />
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=h-beeen&hide=Makefile,HTML,Shell&layout=compact&bg_color=20232A&title_color=1EBBD7&hide_border=true&text_color=fff" width=40% />
 </a>
 <br><br><br><br>

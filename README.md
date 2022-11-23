@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Terminal-241F31?style=flat-square&logo=GNOME Terminal&logoColor=white"/>
-<br/><br>
+</p>
 <br>
 <h3 align="center"><u><b>🐤 Collaboration Tools 🐤</b></u></h3>
 <p align="center"> Tools that I can use skillfully </p><br>
@@ -48,16 +48,8 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/>&nbsp;
   <br>
-
-<br/>
-<br>
-<h3 align="center"><u><b>🏃&nbsp;Certificate 🏃</b></u></h3>
-<p align="center"> Certificates that I acquired </p><br/>
-<h5 align="center">컴퓨터활용능력 1급 / 2021. 07.<br/>SQL Developer(SQLD) / 2022. 06.<br/></h5><br/>
-<br/>
-<a>
-<img src="https://streak-stats.demolab.com/?user=h-beeen&hide_border=true&background=20232a&stroke=fff&ring=1ebbd7&fire=FFFF00&currStreakNum=FFFF00&sideNums=fff&sideLabels=fff&dates=fff" width=95.8%/>
-</a>
+</p>
+</br>
 <a>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=joker7011" width=42.85% />
 </a>

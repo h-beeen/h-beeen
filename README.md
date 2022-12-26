@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/42_Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>&nbsp 
   <a href="https://www.instagram.com/h.beeen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h.beeen/"/></a>&nbsp
 </p>
-</br>
-<a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="130px;" /></a>
+<a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="150px;" /></a>
 <br/>
 <h3 align="center"><u><b>🛠 Tech Stack 🛠</b></u></h3>
 <p align="center"> Techs that I've used at least once </p><br/>

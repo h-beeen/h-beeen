@@ -11,8 +11,8 @@
 <br/>
 <h3 align="center"><u><b>🧸&nbsp;&nbsp;Me&nbsp;&nbsp;🧸</b></u></h3>
 <p align="center">
-<b>[InQ]</b>&nbsp;&nbsp;</b>경기대학교 컴퓨터공학과 개발동아리 Backend Dev. 2022/09 ~<br/>
-<b>[42 Seoul]</b>&nbsp;&nbsp;8기 본과정 교육생(Cadet) 2022/11 ~<br/>
+<b><a href="https://github.com/InQ-InQ-InQ-InQ-InQ"/>[InQ]</b></a>&nbsp;&nbsp;</b>경기대학교 컴퓨터공학과 개발동아리 Backend Dev. 2022/09 ~<br/>
+<b><a href="https://www.42seoul.kr/seoul42/main/view"/>[42 Seoul]</b></a>&nbsp;&nbsp;8기 본과정 교육생(Cadet) 2022/11 ~<br/>
 </p>
 
 </p>

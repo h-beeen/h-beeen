@@ -20,8 +20,3 @@
 <!-- 백준 뱃지 -->
 <a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="250px;" /></a>
 </br><br/><br/>
-My 42Project Bio.
-</br><br/>
-<a href="https://github.com/h-beeen/42cursus/tree/master/libft"><img src="https://github.com/h-beeen/42cursus/blob/master/srcs/libftm.png"></a>
-<a href="https://github.com/h-beeen/42cursus/tree/master/get_next_line"><img src="https://github.com/h-beeen/42cursus/blob/master/srcs/get_next_linee.png"></a>
-<a href="https://github.com/h-beeen/42cursus/tree/master/ft_printf"><img src="https://github.com/h-beeen/42cursus/blob/master/srcs/ft_printfm.png"></a>

@@ -2,8 +2,7 @@
 
 </br><br/><br/>
 
-<div align=center >
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=1EBBD7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Happy+Haebin's+Github+%E3%80%80%E3%80%80"></h1>
+<div align=center ><img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=1EBBD7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Happy+Haebin's+Github+%E3%80%80%E3%80%80"></br></br>
 <a href="https://github.com/h-beeen/42cursus/"><img src="https://user-images.githubusercontent.com/112257466/214539845-3d384ace-a4a6-4a4a-833a-e15a04937104.png"/></a>
 </div>
 <br/>

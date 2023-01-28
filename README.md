@@ -14,7 +14,7 @@
 </p>
 	<p align="center">
 <a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="250px;" /></a></br></br>
-	<img src="https://img.shields.io/badge/lv_1.47-007396?style=for-the-badge&logo=42&label=level&logoColor=white&color=darkgreen"> <img src="https://img.shields.io/badge/2022&brvbar;11&brvbar;07-007396?style=for-the-badge&logo=Starship&label=joined&logoColor=white&color=black">
+	<img src="https://img.shields.io/badge/lv_1.88-007396?style=for-the-badge&logo=42&label=level&logoColor=white&color=darkgreen"> <img src="https://img.shields.io/badge/2022&brvbar;11&brvbar;07-007396?style=for-the-badge&logo=Starship&label=joined&logoColor=white&color=black">
 	</p>
 
 <br/>

@@ -14,9 +14,8 @@
 </p>
 
 <p align="center">
-<a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" width="300px;" /></a>
+<img src="https://badge42.vercel.app/api/v2/cldq2y4ur00410fmnypbc8j38/stats?cursusId=21&coalitionId=87" height=130/><a href="https://solved.ac/profile/joker7011">&nbsp;&nbsp;<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" height=130/></a>
 </br></br>
-<img src="https://badge42.vercel.app/api/v2/cldq2y4ur00410fmnypbc8j38/stats?cursusId=21&coalitionId=87" width=300/><br/>
 </p>
 
 <br/>

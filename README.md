@@ -36,10 +36,10 @@
 <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/KUBS"><img src="https://user-images.githubusercontent.com/112257466/214567712-7fb03dfb-80ee-42f1-893c-d33d8f1f734c.png" width=99% height=99%></a></td>
 
 <tr>
-<td align=center><a href="https://github.com/h-beeen/42cursus/"><img src="https://img.shields.io/badge/-8th_Cadet-007396?style=for-the-badge&logo=42&logoColor=white&color=black" height=25/></td>
-<td align=center><a href="https://github.com/h-beeen/arcade42"><img src="https://img.shields.io/badge/-Arcade_42-007396?style=for-the-badge&logo=Bookmeter&logoColor=white&color=darkred" height=25/>
-<td align=center><a href="https://github.com/h-beeen/HappyMall"><img src="https://img.shields.io/badge/-Spring-007396?style=for-the-badge&logo=Spring&logoColor=white&color=#6DB33F" height=25/></td>
-<td align=center><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/KUBS"><img src="https://img.shields.io/badge/-Spring-007396?style=for-the-badge&logo=Spring&logoColor=white&color=#6DB33F" height=25/></td>
+<td align=center><a href="https://github.com/h-beeen/42cursus/"><img src="https://img.shields.io/badge/-8th_Cadet-007396?style=for-the-badge&logo=42&logoColor=white&color=black" height=25 width=100/></td>
+<td align=center><a href="https://github.com/h-beeen/arcade42"><img src="https://img.shields.io/badge/-Arcade_42-007396?style=for-the-badge&logo=Bookmeter&logoColor=white&color=darkred" height=25 width=100/>
+<td align=center><a href="https://github.com/h-beeen/HappyMall"><img src="https://img.shields.io/badge/-Spring-007396?style=for-the-badge&logo=Spring&logoColor=white&color=#6DB33F" height=25/ width=80></td>
+<td align=center><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/KUBS"><img src="https://img.shields.io/badge/-Spring-007396?style=for-the-badge&logo=Spring&logoColor=white&color=#6DB33F" height=25/ width=80></td>
 </tr>
 
 </table>

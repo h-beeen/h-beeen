@@ -30,10 +30,10 @@
 </tr>
 
 <tr>
-<td align ="center"><a href="https://github.com/h-beeen/42cursus/"><img src="https://user-images.githubusercontent.com/112257466/214565670-9aaf84d6-44d0-42d8-bf36-26ee5b901cf1.png" width="130px"></td></a>
-<td align="center"><a href="https://github.com/h-beeen/arcade42"><img src="https://user-images.githubusercontent.com/112257466/214565981-e8a90aae-c665-45e4-ab91-38c439dcb18d.png" width="130px"></a></td>
-<td align="center"><a href="https://github.com/h-beeen/HappyMall"><img src="https://user-images.githubusercontent.com/112257466/214567089-76c3cbaa-8b59-4bb7-bf63-8f73fe1723aa.png" width="130px"></a></td>
-<td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/KUBS"><img src="https://user-images.githubusercontent.com/112257466/214567712-7fb03dfb-80ee-42f1-893c-d33d8f1f734c.png" width="130px"></a></td>
+<td align ="center"><a href="https://github.com/h-beeen/42cursus/"><img src="https://user-images.githubusercontent.com/112257466/214565670-9aaf84d6-44d0-42d8-bf36-26ee5b901cf1.png" height=130 width="130px"></td></a>
+<td align="center"><a href="https://github.com/h-beeen/arcade42"><img src="https://user-images.githubusercontent.com/112257466/214565981-e8a90aae-c665-45e4-ab91-38c439dcb18d.png" height=130 width="130px"></a></td>
+<td align="center"><a href="https://github.com/h-beeen/HappyMall"><img src="https://user-images.githubusercontent.com/112257466/214567089-76c3cbaa-8b59-4bb7-bf63-8f73fe1723aa.png" height=130 width="130px"></a></td>
+<td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/KUBS"><img src="https://user-images.githubusercontent.com/112257466/214567712-7fb03dfb-80ee-42f1-893c-d33d8f1f734c.png" height=130 width="130px"></a></td>
 
 <tr>
 <td align=center><a href="https://github.com/h-beeen/42cursus/"><img src="https://img.shields.io/badge/-8th_Cadet-007396?style=for-the-badge&logo=42&logoColor=white&color=black" height=25/></td>

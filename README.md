@@ -1,16 +1,13 @@
-
-
-</br><br/><br/>
-
-<div align=center ><img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=1EBBD7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Happy+Haebin's+Github+%E3%80%80%E3%80%80"></br></br>
+<!-- <div align=center ><img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=1EBBD7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Happy+Haebin's+Github+%E3%80%80%E3%80%80"></br></br>
 <a href="https://github.com/h-beeen/42cursus/"><img src="https://user-images.githubusercontent.com/112257466/214539845-3d384ace-a4a6-4a4a-833a-e15a04937104.png"/></a>
 </div>
-<br/>
+<br/> -->
 
 
 <p align="center">
 	<b><i>42 Seoul</b> - 8th Cadet</br>
 	<b>Junior Backend Developer</br></br>
+	<a href="https://jet-park-0e4.notion.site/Developer-Bin-s-Portfolio-7480a9a23d314fbea70d3049c68d65c8"/>h-beeen's Portfolio ⍩</a>
 </p>
 
 <p align="center">
@@ -20,16 +17,16 @@
 
 <br/>
 
-<table align="center">
+<!-- <table align="center">
 
 <tr>
 <td align="center" width=24%><a href="https://github.com/h-beeen/42cursus/"><b>42Cursus</b></td>
 <td align="center" width=24%><a href="https://github.com/h-beeen/arcade42"><b>Algorithm Study</b></td>
 <td align="center" width=24%><a href="https://github.com/h-beeen/Happymall"><b>Backend Study</b></td>
 <td align="center" width=24%><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/KUBS"><b>Project_KUBS</b></td>
-</tr>
+</tr> -->
 
-<tr>
+<!-- <tr>
 <td align ="center"><a href="https://github.com/h-beeen/42cursus/"><img src="https://user-images.githubusercontent.com/112257466/214565670-9aaf84d6-44d0-42d8-bf36-26ee5b901cf1.png" width=99% height=99%></td></a>
 <td align="center"><a href="https://github.com/h-beeen/arcade42"><img src="https://user-images.githubusercontent.com/112257466/214565981-e8a90aae-c665-45e4-ab91-38c439dcb18d.png" width=99% height=99%></a></td>
 <td align="center"><a href="https://github.com/h-beeen/HappyMall"><img src="https://user-images.githubusercontent.com/112257466/214567089-76c3cbaa-8b59-4bb7-bf63-8f73fe1723aa.png" width=99% height=99%></a></td>
@@ -40,7 +37,7 @@
 <td align=center><a href="https://github.com/h-beeen/arcade42"><img src="https://img.shields.io/badge/-Arcade_42-007396?style=for-the-badge&logo=Bookmeter&logoColor=white&color=darkred" height=25 width=100/>
 <td align=center><a href="https://github.com/h-beeen/HappyMall"><img src="https://img.shields.io/badge/-Spring-007396?style=for-the-badge&logo=Spring&logoColor=white&color=#6DB33F" height=25/ width=80></td>
 <td align=center><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/KUBS"><img src="https://img.shields.io/badge/-Spring-007396?style=for-the-badge&logo=Spring&logoColor=white&color=#6DB33F" height=25/ width=80></td>
-</tr>
+</tr> -->
 
 </table>
 

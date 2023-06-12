@@ -7,7 +7,7 @@
 <p align="center">
 	<b><i>42 Seoul</b> - 8th Cadet</br>
 	<b>Junior Backend Developer</br>
-	<h2 align=center><a href="https://jet-park-0e4.notion.site/Developer-Bin-s-Portfolio-7480a9a23d314fbea70d3049c68d65c8"/>h-beeen's Portfolio ⍩</a></h2>
+	<h2 align=center><a href="been2spring.oopy.io"/>h-beeen's Portfolio ⍩</a></h2>
 </p>
 
 <p align="center">

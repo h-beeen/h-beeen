@@ -7,7 +7,7 @@
 <p align="center">
 	<b><i>42 Seoul</b> - 8th Cadet</br>
 	<b>Junior Backend Developer</br>
-	<h2 align=center><a href="been2spring.oopy.io"/>h-beeen's Portfolio ⍩</a></h2>
+	<h2 align=center><a href="http://been2spring.oopy.io"/>h-beeen's Portfolio ⍩</a></h2>
 </p>
 
 <p align="center">

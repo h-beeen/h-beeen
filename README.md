@@ -5,7 +5,6 @@
 
 
 <p align="center">
-	<b><i>42 Seoul</b> - 8th Cadet</br>
 	<b>Junior Backend Developer</br>
 </p>
 

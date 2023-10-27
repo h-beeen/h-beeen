@@ -15,6 +15,8 @@
 
 <br/>
 
+- [\[우아한테크코스 1주차\] 28명이 리뷰한 숫자 야구 게임](https://github.com/woowacourse-precourse/java-baseball-6/pull/1613)
+
 <!-- <table align="center">
 
 <tr>

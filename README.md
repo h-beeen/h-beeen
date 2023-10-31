@@ -15,7 +15,8 @@
 
 <br/>
 
-- [\[우아한테크코스 1주차\] 28명이 리뷰한 숫자 야구 게임](https://github.com/woowacourse-precourse/java-baseball-6/pull/1613)
+- [\[우아한테크코스 1주차\] 31명의 224개의 리뷰를 받은 숫자 야구 게임](https://github.com/woowacourse-precourse/java-baseball-6/pull/1613)
+- [\[우하한테크코스 2주차\] n명이 리뷰한 자동차 경주 게임](https://github.com/woowacourse-precourse/java-racingcar-6/pull/356)
 
 <!-- <table align="center">
 

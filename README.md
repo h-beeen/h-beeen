@@ -1,5 +1,5 @@
 <p align="center">
-<a>반갑습니다! 변해빈입니다!</a>
+<a>반갑습니다! 변해빈입니다!</a><br>
 <a href="https://solved.ac/profile/joker7011"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker7011" style="vertical-align:top" height=140/></a>
 </br>
 </p>

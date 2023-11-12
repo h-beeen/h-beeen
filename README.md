@@ -18,7 +18,7 @@
 - [\[우아한테크코스 프리코스 1주차\] 31명의 224개의 리뷰를 함께 한 숫자 야구 게임](https://github.com/woowacourse-precourse/java-baseball-6/pull/1613)
 - [\[우아한테크코스 프리코스 2주차\] 39명과 296개의 리뷰를 함께 한 자동차 경주 게임](https://github.com/woowacourse-precourse/java-racingcar-6/pull/356)
 
-- [\[우아한테크코스 프리코스 3주차\] 이번 주도 많은 분들과 함께 할 로또](https://github.com/woowacourse-precourse/java-lotto-6/pull/449)
+- [\[우아한테크코스 프리코스 3주차\] 22명과 213개의 리뷰를 함께 한 할 로또](https://github.com/woowacourse-precourse/java-lotto-6/pull/449)
 <!-- <table align="center">
 
 <tr>

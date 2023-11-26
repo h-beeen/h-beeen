@@ -1,4 +1,4 @@
-그 어느 때 보다 따뜻한 2022년 11월, 124명과 나눈 소중한 이야기
+그 어느 때 보다 따뜻한 2023년 11월, 124명과 나눈 소중한 이야기
 - 리뷰가 많아 로딩이 오래 걸립니다! 🦄 오류 발생시 새로고침 해주세요! 
 - [\[우아한테크코스 프리코스 1주차\] 31명과 함께하는 224개의 이야기 (숫자 야구 게임)](https://github.com/woowacourse-precourse/java-baseball-6/pull/1613)
 - [\[우아한테크코스 프리코스 2주차\] 39명과 함께하는 296개의 이야기 (자동차 경주 게임)](https://github.com/woowacourse-precourse/java-racingcar-6/pull/356)

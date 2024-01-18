@@ -32,7 +32,7 @@
 
 <p>
   <ul>
-    <li><img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" height="11px"/>&nbsp;&nbsp;<b>2024 GDSC New Year HACKATHON </b> 우수상 [2024. 01]<br><br>
+    <li><img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" height="11px"/>&nbsp;&nbsp;<b>2024 GDSC New Year HACKATHON </b> 우수상 [2024. 01]&nbsp;&nbsp;<a href="https://onoffmix.com/event/291734"/>[모집 공고</a><br><br>
       <ul>
         <li><a href="https://github.com/GDSC-Team-J">[아띠 : 당신의 감정 도우미] Github Repository</a></li>
         <li><a href="https://velog.io/@h-beeen/GDSC-NEW-YEAR-HACKATHON-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-feat.-%EC%95%84%EB%9D%A0">[GDSC New Year Hackathon] 후기 및 회고</a></li>

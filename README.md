@@ -88,7 +88,7 @@
     <tr>
       <td align="center">2023. 11 ~ 2023. 12</td>
       <td align="center">우아한테크코스 웹 BE 6기 프리코스</td>
-      <td align="center">Repository, Velog</td>
+      <td align="center"><a href="https://github.com/h-beeen/woowacourse"/>Repository</a>, <a href="https://velog.io/@h-beeen/%EC%83%88%EC%8B%B9%EC%BD%98%EC%84%9C%ED%8A%B8-%EC%9D%BC%EA%B0%9C-%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%A7%80%EC%9B%90%EC%9E%90%EA%B0%80-70%EB%AA%85-%EA%B7%9C%EB%AA%A8%EC%9D%98-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-%ED%96%89%EC%82%AC%EB%A5%BC-%EA%B0%9C%EC%B5%9C%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80"/>Velog</a></td>
     </tr>
     <tr>
       <td align="center">2023. 04 ~ 2023. 12</td>

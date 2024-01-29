@@ -10,21 +10,12 @@
 <br/>
 
 
-###  🌱 &nbsp;&nbsp;Study
-
-<blockquote>
-    <pre><b>경기대학교 경제학</b> 전공, <b>융합데이터공학</b> 복수 전공 졸업예정자 [2024. 08]<br/><b>42Seoul 8th</b> 본과정 교육생 (Cadet) [2022. 11 ~ 2023. 08]</pre>
-</blockquote>
-
-
-
-
 ---
 
-### 🎖️ &nbsp;&nbsp;Awards
+## 🎖️ &nbsp;&nbsp;Awards
 
+<h3>🥈 <b>2024 GDSC KR New Year Hackathon</b><a href="https://onoffmix.com/event/291734"/><a> 우수상&nbsp;[2024. 01]</h3>
 <blockquote>
-    <pre>🥈 <b>2024 Google Developer Student Club 뉴이어 해커톤</b>&nbsp;[2024. 01]&nbsp;<a href="https://onoffmix.com/event/291734"/><a><br> - 우수상 (총 21팀 중 2위)</pre>
         <li><a href="https://github.com/GDSC-Team-J">[아띠 : 당신의 감정 도우미] Github Repository</a></li>
         <li><a href="https://velog.io/@h-beeen/GDSC-NEW-YEAR-HACKATHON-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-feat.-%EC%95%84%EB%9D%A0">[GDSC New Year Hackathon] 후기 및 회고</a></li>
               <li>주관 및 후원사 : 
@@ -38,11 +29,10 @@
 
 ---
 
-### 🛠️ &nbsp;&nbsp;Tech Stacks
+## 🛠️ &nbsp;&nbsp;Tech Stacks
 
+<h3><b>Java & Spring Framework</b> 기반 백엔드 개발자</h3>
 <blockquote>
-<pre><b>Java & Spring Framework</b> 기반 백엔드 개발자</pre>
-
 <table>
   <tr>
     <td rowspan="2" align="center"><b>Language</td>
@@ -76,4 +66,39 @@
     <td><img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Github Action</td>
   </tr>
 </table>
+</blockquote>
+
+---
+
+## 🌱 &nbsp;&nbsp;About Me
+
+
+<blockquote>
+  <table>
+    <tr>
+      <td align="center">2018. 03 ~ 2024. 08</td>
+      <td align="center">경기대학교 경제학, 융합데이터공학 졸업예정자</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">2022. 08 ~ 2024. 02</td>
+      <td align="center">경기대학교 연합 IT 개발 동아리 [InQ] 운영진</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">2023. 11 ~ 2023. 12</td>
+      <td align="center">우아한테크코스 웹 BE 6기 프리코스</td>
+      <td align="center">Repository, Velog</td>
+    </tr>
+    <tr>
+      <td align="center">2023. 04 ~ 2023. 12</td>
+      <td align="center">IT벤쳐창업소모임 [Team Toppings] Member</td>
+      <td align="center"><a href="https://toppings-introduction.vercel.app/"/>팀 소개</a>, <a href="https://github.com/toppingskorea"/>Github</a></td>
+    </tr>
+    <tr>
+      <td align="center">2022. 11 ~ 2023. 08</td>
+      <td align="center">42Seoul 8th 본과정 교육생 Cadet [a.k.a hbyeon]</td>
+      <td align="center"><a href="https://github.com/h-beeen/42cursus"/>Github</a></td>
+    </tr>
+  </table>
 </blockquote>

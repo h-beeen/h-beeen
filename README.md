@@ -14,7 +14,7 @@
 
 ## 🛠️ &nbsp;&nbsp;Tech Stacks
 
-<h3><b>Java & Spring Framework</b> 기반 백엔드 개발자</h3>
+<b>Java & Spring Framework</b>백엔드 개발자
 <blockquote>
 <table>
   <tr>

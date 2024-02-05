@@ -65,7 +65,7 @@
     </tr>
     <tr>
       <td align="center">'24. 02 ~ '24. 08</td>
-      <td align="center">구름톤 Univ. 경기대학교 2기 미르미</td>
+      <td align="center">9oormthon Univ. 경기대학교 2기 미르미</td>
       <td></td>
     </tr>
     <tr>

@@ -88,7 +88,7 @@
 
 ## 🎖️ &nbsp;&nbsp;Small Hacks! Big Impacts!
 
-🥈 <b>2024 GDSC KR New Year Hackathon</b><a>&nbsp;[우수상 / 2024. 01]
+🥈 <b>2024 GDSC KR New Year Hackathon</b><a>&nbsp;[우수상 / 2024. 01.]
 <blockquote>
         <li><a href="https://github.com/GDSC-Team-J">[아띠 : 당신의 감정 도우미] Github Repository</a></li>
         <li><a href="https://velog.io/@h-beeen/GDSC-NEW-YEAR-HACKATHON-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-feat.-%EC%95%84%EB%9D%A0">[2024 GDSC New Year Hackathon] 후기 및 회고</a></li>
@@ -101,7 +101,7 @@
       </ul>
 </blockquote>
 
-🎖️ <b>2024 SPARCS Service Hackathon</b>&nbsp;[출품 / 2024. 02]</code>
+🎖️ <b>2024 SPARCS Service Hackathon</b>&nbsp;[출품 / 2024. 02.]</code>
 <blockquote>
         <li><a href="https://github.com/SPARCS-Service-Hackathon-2024/A11-API">[히어 : hear, here] Github Repository</a></li>
         <li><a href="https://velog.io/@h-beeen/GDSC-NEW-YEAR-HACKATHON-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-feat.-%EC%95%84%EB%9D%A0">[2024 SPARCS Hackathon] 후기 및 회고</a></li>
@@ -110,6 +110,17 @@
         &nbsp;&nbsp;<img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fca8b3bc6-6b17-4a1f-8f57-2dd4b58a84f7%2F178c12c6-b904-407f-827f-fa68f0a2460f%2FSPARCS.png&blockId=3cf80a4a-1d0d-44b6-8e10-a3335537a5ff" height="12px"/>
         &nbsp;&nbsp;<img src="https://elice.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Felice_logo.06b34994.png&w=256&q=75" height="12px"/>
         &nbsp;&nbsp;<img src="https://github.com/h-beeen/h-beeen/assets/112257466/fee6433c-5878-4987-b8b4-1aa7e01d2f1b" height="10px"/>
+      </li>
+      </ul>
+</blockquote>
+
+🎖️ <b>KAPS-Yonsei Hackathon for Social Good</b>&nbsp;[진행중 / 2024. 02. ~ 03.]</code>
+<blockquote>
+        <li><a href="https://github.com/Gamjeong-Talktalk/Gamjeong-Talktalk-Api">[감정톡톡 : 당신의 감정 도우미] Github Repository</a></li>
+              <li>주관 및 후원사 : 
+        &nbsp;한국정책학회, 
+        &nbsp;&nbsp;<img src="https://www.svgrepo.com/show/303108/google-icon-logo.svg" height="12px"/>
+        &nbsp;&nbsp;<img src="https://github.com/h-beeen/Kotlin-Practice/assets/112257466/9a8fb39d-616e-4068-a27b-afa6cc94293b" height="12px"/>
       </li>
       </ul>
 </blockquote>

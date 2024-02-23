@@ -64,6 +64,11 @@
       <td></td>
     </tr>
     <tr>
+      <td align="center">'24. 03 ~ '24. 08</td>
+      <td align="center">9oormthon Univ. 2기 미르미</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
       <td align="center">'22. 08 ~ '24. 02</td>
       <td align="center">경기대학교 연합 IT 개발 동아리 [InQ] 운영진</td>
       <td align="center"></td>

@@ -64,12 +64,12 @@
       <td></td>
     </tr>
     <tr>
-      <td align="center">'24. 03 ~ '24. 08</td>
+      <td align="center">'24. 03 ~ 활동중'</td>
       <td align="center">9oormthon Univ. 2기 미르미</td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center">'23. 04 ~ '23. 12</td>
+      <td align="center">'23. 04 ~ 활동중'</td>
       <td align="center">IT벤쳐창업소모임 [Team Toppings] Member</td>
       <td align="center"><a href="https://toppings-introduction.vercel.app/"/>팀 소개</a>, <a href="https://github.com/toppingskorea"/>Github</a></td>
     </tr>

@@ -132,7 +132,7 @@
 
 🎖️ <b>2024 9oormthon Univ. 벚꽃톤</b>&nbsp;[참가 예정 / 2024. 03]</code>
 <blockquote>
-  <li><a href="https://github.com/Gamjeong-Talktalk/Gamjeong-Talktalk-Api">[감정톡톡 : 당신의 감정 도우미] Github Repository</a></li>
+  <li>[백곰 : 백신아, 곰아워!] Github Repository</li>
               <li>주관 및 후원사 : 
         &nbsp;&nbsp;<img src="https://wiki.throgo.com/images/6/62/Goorm.png" height="10px"/>
         &nbsp;&nbsp;<img src="https://i.namu.wiki/i/GmQozcg0lMGkI_NXkm04l-14hJIGnxYdhfe98DUlKGHVunjQtRkn0ZaGgXI1DEdGzHCzUsJsLbEZlMveOEnoRQ.svg" height="12px"/>

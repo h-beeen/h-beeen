@@ -6,16 +6,16 @@
 &nbsp;<a href="https://www.instagram.com/h.beeen?igsh=MXBweWNpd2VpMTl2ag%3D%3D&utm_source=qr
 "/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height=30px></a>&nbsp;
 <a href="mailto:joker7011@naver.com"><img src="https://img.shields.io/badge/mail-512BD4?style=for-the-badge&logo=gmail&logoColor=white" height=30px></a>
-</div>
+
 <br/>
 
 
 ---
 
-## 🛠️ &nbsp;&nbsp;Tech Stacks
+## 🛠️&nbsp;&nbsp;&nbsp;Tech Stacks&nbsp;&nbsp;&nbsp;🛠️
 
-<b>Java & Spring Framework</b> 백엔드 개발자
-<blockquote>
+<br>
+
 <table>
   <tr>
     <td rowspan="2" align="center"><b>Language</td>
@@ -25,7 +25,7 @@
     <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</td>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>C/C++</td>
+    <td><img src="https://camo.githubusercontent.com/2169d5c7654f7f51fe95e2d12d9a133aef82e2e4069d6feab63db784b61046e2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30362f4b6f746c696e5f49636f6e2e7376672f3230343870782d4b6f746c696e5f49636f6e2e7376672e706e67" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Kotlin</td>
     <td><img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MariaDB</td>
   </tr>
   <tr>
@@ -49,14 +49,15 @@
     <td><img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Github Action</td>
   </tr>
 </table>
-</blockquote>
+<br>
+
 
 ---
 
-## 🌱 &nbsp;&nbsp;About Me
+## 🌱&nbsp;&nbsp;&nbsp;About Me&nbsp;&nbsp;&nbsp;🌱
 
+<br>
 
-<blockquote>
   <table>
     <tr>
       <td align="center">'18. 03 ~ '24. 08</td>
@@ -89,53 +90,35 @@
       <td align="center"><a href="https://github.com/h-beeen/42cursus"/>Github</a></td>
     </tr>
   </table>
-</blockquote>
+<br>
 
-## 🎖️ &nbsp;&nbsp;Small Hacks! Big Impacts!
+## 🎖️ &nbsp;&nbsp;&nbsp;Experience&nbsp;&nbsp;&nbsp;🎖️
 
-🥈 <b>2024 GDSC KR New Year Hackathon</b><a>&nbsp;[우수상 / 2024. 01.]
-<blockquote>
-        <li><a href="https://github.com/GDSC-Team-J">[아띠 : 당신의 감정 도우미] Github Repository</a></li>
-        <li><a href="https://velog.io/@h-beeen/GDSC-NEW-YEAR-HACKATHON-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-feat.-%EC%95%84%EB%9D%A0">[2024 GDSC New Year Hackathon] 후기 및 회고</a></li>
-              <li>주관 및 후원사 : 
-        &nbsp;&nbsp;<img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" height="12px"/>
-        &nbsp;&nbsp;<img src="https://www.svgrepo.com/show/303108/google-icon-logo.svg" height="12px"/>
-        &nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/line.svg" height="12px"/>
-        &nbsp;&nbsp;<img src="https://i.namu.wiki/i/9WpX7_pQ7dS0A4bAGT3Lu8xQRwlrZDhg3ytiIiR4op-qobo5oBWwTxC9Bfbkeoo-y9B4BrhiCQp8cey--PIFbg.svg" height="12px"/>
-      </li>
-      </ul>
-</blockquote>
-
-🎖️ <b>2024 SPARCS Service Hackathon</b>&nbsp;[출품 / 2024. 02.]</code>
-<blockquote>
-        <li><a href="https://github.com/SPARCS-Service-Hackathon-2024/A11-API">[히어 : hear, here] Github Repository</a></li>
-        <li><a href="https://velog.io/@h-beeen/GDSC-NEW-YEAR-HACKATHON-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-feat.-%EC%95%84%EB%9D%A0">[2024 SPARCS Hackathon] 후기 및 회고</a></li>
-              <li>주관 및 후원사 : 
-        &nbsp;&nbsp;<img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fca8b3bc6-6b17-4a1f-8f57-2dd4b58a84f7%2Fb43eafda-1d12-4782-9aad-bcc0d6a951b7%2Fkaist_logo.png&blockId=224c62a1-6093-4b19-b02d-16cb00fa94b4" height="12px"/>
-        &nbsp;&nbsp;<img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fca8b3bc6-6b17-4a1f-8f57-2dd4b58a84f7%2F178c12c6-b904-407f-827f-fa68f0a2460f%2FSPARCS.png&blockId=3cf80a4a-1d0d-44b6-8e10-a3335537a5ff" height="12px"/>
-        &nbsp;&nbsp;<img src="https://elice.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Felice_logo.06b34994.png&w=256&q=75" height="12px"/>
-        &nbsp;&nbsp;<img src="https://github.com/h-beeen/h-beeen/assets/112257466/fee6433c-5878-4987-b8b4-1aa7e01d2f1b" height="10px"/>
-      </li>
-      </ul>
-</blockquote>
-
-🎖️ <b>KAPS-Yonsei Hackathon for Social Good</b>&nbsp;[진행중 / 2024. 02. ~ 03.]</code>
-<blockquote>
-        <li><a href="https://github.com/Gamjeong-Talktalk/Gamjeong-Talktalk-Api">[감정톡톡 : 당신의 감정 도우미] Github Repository</a></li>
-              <li>주관 및 후원사 : 
-        &nbsp;한국정책학회, 
-        &nbsp;&nbsp;<img src="https://www.svgrepo.com/show/303108/google-icon-logo.svg" height="12px"/>
-        &nbsp;&nbsp;<img src="https://github.com/h-beeen/Kotlin-Practice/assets/112257466/9a8fb39d-616e-4068-a27b-afa6cc94293b" height="12px"/>
-      </li>
-      </ul>
-</blockquote>
-
-🎖️ <b>2024 9oormthon Univ. 벚꽃톤</b>&nbsp;[참가 예정 / 2024. 03]</code>
-<blockquote>
-  <li>[백곰 : 백신아, 곰아워!] Github Repository</li>
-              <li>주관 및 후원사 : 
-        &nbsp;&nbsp;<img src="https://wiki.throgo.com/images/6/62/Goorm.png" height="10px"/>
-        &nbsp;&nbsp;<img src="https://i.namu.wiki/i/GmQozcg0lMGkI_NXkm04l-14hJIGnxYdhfe98DUlKGHVunjQtRkn0ZaGgXI1DEdGzHCzUsJsLbEZlMveOEnoRQ.svg" height="12px"/>
-      </li>
-      </ul>
-</blockquote>
+<table>
+  <tr>
+    <th align=center>Hackathon</th>
+    <th align=center>Project</th>
+    <th align=center>Result</th>
+    <th align=center>Period</th>
+    <th align=center>Organization</th>
+    <th align=center>Link</th>
+  </tr>
+  <tr>
+    <td align=center><b>kakao X goorm</b> 벚꽃톤</td>
+    <td align=center><b>백곰</b><br>(백신아! 곰아워)</td>
+    <td align=center>🥈 <b>최우수상</b><br>(<b>2nd</b> / 37th)</td>
+    <td align=center>2024. 03.</td>
+    <td align=center><img src="https://i.namu.wiki/i/GmQozcg0lMGkI_NXkm04l-14hJIGnxYdhfe98DUlKGHVunjQtRkn0ZaGgXI1DEdGzHCzUsJsLbEZlMveOEnoRQ.svg" height="12px"/>&nbsp;&nbsp;<img src="https://wiki.throgo.com/images/6/62/Goorm.png" height="12px"/></td>
+    <td align=center><a href="https://velog.io/@h-beeen/kakao-x-goorm-%EB%B2%9A%EA%BD%83%ED%86%A4-%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81-%EB%B0%B1%EA%B3%B0-%ED%9A%8C%EA%B3%A0"/>(회고)</a><br><a href="https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_4_BE"/>(Github)</a></td>
+  </tr>
+  <tr>
+    <td align=center><b>GDSC</b> New Year 해커톤</td>
+    <td align=center><b>아띠</b><br>(당신의 감정 도우미)</td>
+    <td align=center><b>🥈 우수상</b><br>(<b>2nd</b> / 21th)</td>
+    <td align=center>2024. 01.</td>
+    <td align=center><img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" height="12px"/>
+        &nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/line.svg" height="12px"/></td>
+        <td align=center><a href="https://velog.io/@h-beeen/GDSC-NEW-YEAR-HACKATHON-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-feat.-%EC%95%84%EB%9D%A0"/>(회고)</a><br><a href="https://github.com/GDSC-Team-J/ADDI-api"/>(Github)</a></td>
+  </tr>
+</table>
+</div>

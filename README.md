@@ -7,6 +7,9 @@
 "/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height=30px></a>&nbsp;
 <a href="mailto:joker7011@naver.com"><img src="https://img.shields.io/badge/mail-512BD4?style=for-the-badge&logo=gmail&logoColor=white" height=30px></a>
 
+![Frame 1261160921 (1)](https://github.com/user-attachments/assets/dc91445f-a067-4a14-b837-fafb9413da58)
+
+
 <br/>
 
 

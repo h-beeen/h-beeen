@@ -62,34 +62,73 @@
 <table>
   <tr>
     <th align=center>Title</th>
+    <th align=center>Result</th>
     <th align=center>Project</th>
     <th align=center>Position</th>
-    <th align=center>Result</th>
     <th align=center>Period</th>
     <th align=center>Link</th>
   </tr>
-    <tr>
-    <td align=center><b>kakao X goorm</b><br>구름톤 유니브 In Jeju</td>
+  
+  <tr>
+    <td align=center><b>kakao X KTO</b><br>2024 관광데이터 활용 공모전</td>
+        <td align=center>본선 진행 중</b></td>
+    <td align=center><b>경기선</b></td>
+    <td align=center><b>BE</b></td>
+    <td align=left>24' 04. ~<br>24' 10.</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td align=center><b>Pusan DX Challenge</b><br>Dive 2024 글로벌 데이터 해커톤</td>
+    <td align=center>예선 통과</b></td>
+    <td align=center><b></b></td>
+    <td align=center><b>BE</b></td>
+    <td align=left>24' 09. ~<br>24' 10.</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td align=center><b>kakao X goorm</b><br>구름톤 유니브 In Jeju 서비스 해커톤</td>
+        <td align=center>🥉 <b>우수상</b></td>
     <td align=center><b>백곰</b></td>
     <td align=center><b>Team Lead | BE</b></td>
-    <td align=center>🥉 <b>우수상</b></td>
-    <td align=center>2024. 08.</td>
+    <td align=left>24' 04. ~<br>24' 08.</td>
     <td align=center><a href="https://velog.io/@h-beeen/kakao-X-goorm-%EA%B5%AC%EB%A6%84%ED%86%A4-Univ-In-Jeju-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0"/>(Velog)</a></td>
   </tr>
+
   <tr>
     <td align=center><b>kakao X goorm</b><br>2024 벚꽃톤</td>
+    <td align=center>🥈 <b>최우수상</b></td>
     <td align=center><b>백곰</b></td>
     <td align=center><b>Team Lead | BE</b></td>
-    <td align=center>🥈 <b>최우수상</b></td>
-    <td align=center>2024. 03.</td>
+    <td align=left>24' 02. ~<br>24' 03.</td>
     <td align=center><a href="https://velog.io/@h-beeen/kakao-x-goorm-%EB%B2%9A%EA%BD%83%ED%86%A4-%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81-%EB%B0%B1%EA%B3%B0-%ED%9A%8C%EA%B3%A0"/>(Velog)</a></td>
   </tr>
+  
   <tr>
-    <td align=center><b>GDSC</b><br>2024 New Year 해커톤</td>
+    <td align=center><b>YONSEI Univ.</b><br>사회문제 해결을 위한 해커톤</td>
+    <td align=center>참가</td>
+    <td align=center><b>감정톡톡</b></td>
+    <td align=center><b>BE</b></td>
+    <td align=left>24' 02. ~<br>24' 03.</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td align=center><b>KAIST Sparcs</b><br>2024 서비스 해커톤</td>
+    <td align=center>참가</td>
+    <td align=center><b>히어</b><br>Hear</td>
+    <td align=center><b>BE</b></td>
+    <td align=left>24' 02.</td>
+        <td align=center><a href="https://velog.io/@h-beeen/2024-SPARCS-Hackathon-%ED%9B%84%EA%B8%B0-feat.-%ED%8C%8C%ED%8B%B0%EB%B9%B5%EB%B9%B5"/>(Velog)</a></td>
+  </tr>
+
+  <tr>
+    <td align=center><b>GDSC</b><br>New Year 해커톤</td>
+    <td align=center><b>🥈 우수상</b></td>
     <td align=center><b>아띠</b></td>
     <td align=center><b>BE</b></td>
-    <td align=center><b>🥈 우수상</b></td>
-    <td align=center>2024. 01.</td>
+    <td align=left>24' 01.</td>
         <td align=center><a href="https://velog.io/@h-beeen/GDSC-NEW-YEAR-HACKATHON-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-feat.-%EC%95%84%EB%9D%A0"/>(Velog)</a></td>
   </tr>
 </table>

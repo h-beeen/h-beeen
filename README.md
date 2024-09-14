@@ -8,13 +8,9 @@
 &nbsp;<a href="mailto:dev.beeen@kakao.com"><img src="https://img.shields.io/badge/mail-512BD4?style=for-the-badge&logo=gmail&logoColor=white" height=30px></a>
 &nbsp;<a href="https://www.linkedin.com/in/%ED%95%B4%EB%B9%88-%EB%B3%80-95a219310/"><img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=30px></a>
 
-
 <br/>
 
-
----
-
-## 🛠️&nbsp;&nbsp;&nbsp;Tech Stacks&nbsp;&nbsp;&nbsp;🛠️
+## Tech Skills
 
 <br>
 
@@ -22,13 +18,13 @@
   <tr>
     <td rowspan="2" align="center"><b>Language</td>
     <td><img src="https://staging.svgrepo.com/show/184143/java.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Java</td>
-    <td rowspan="7"></td>
+    <td rowspan="8"></td>
     <td rowspan="2" align="center"><b>Database</b></td>
     <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</td>
   </tr>
   <tr>
     <td><img src="https://camo.githubusercontent.com/2169d5c7654f7f51fe95e2d12d9a133aef82e2e4069d6feab63db784b61046e2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30362f4b6f746c696e5f49636f6e2e7376672f3230343870782d4b6f746c696e5f49636f6e2e7376672e706e67" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Kotlin</td>
-    <td><img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MariaDB</td>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>PostgresSQL</td>
   </tr>
   <tr>
     <td rowspan="2" align="center"><b>Frameworks</td>
@@ -42,22 +38,23 @@
   </tr>
   <tr>
     <tr>
-      <td rowspan="2" align="center"><b>ORM</td>
-      <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JPA/Data JPA</td>
+      <td rowspan="3" align="center"><b>ORM</td>
+      <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Data JPA</td>
       <td><img src="https://yt3.googleusercontent.com/ytc/AIf8zZTAG01_SUWCNq2jcOvl49us-MaQ0THgkfJwRnIO=s900-c-k-c0x00ffffff-no-rj" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Naver Cloud</td>
     <tr>
     <td><img src="https://github.com/GDSC-Team-J/ADDI-ML/assets/112257466/dff863c4-fb90-4747-a621-bdbd2c44a0be" width="16px" alt="_icon" />&nbsp;&nbsp;<b>QueryDSL</td>
-    <td rowspan="1" align="center"><b>CI/CD</td>
+    <td rowspan="3" align="center"><b>CI/CD</td>
     <td><img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Github Action</td>
+    </tr>
+    <tr>
+      <td><img src="https://plugins.jetbrains.com/files/18429/586987/icon/pluginIcon.svg" width=16px alt=_icon>&nbsp;&nbsp;MyBatis</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Jenkins</td>
+    </tr>
   </tr>
 </table>
 <br>
 
-
----
-
-
-## 🎖️ &nbsp;&nbsp;&nbsp;Experience&nbsp;&nbsp;&nbsp;🎖️
+## Experiences
 
 <table>
   <tr>
@@ -70,7 +67,7 @@
   </tr>
 
   <tr>
-    <td align=center><b>kakao X goorm</b><br>구름톤 유니브 In Jeju 서비스 해커톤</td>
+    <td align=center><b>kakao X goorm</b><br>구름톤 Univ In <b>Jeju</b></td>
         <td align=center>🥉 <b>우수상</b></td>
     <td align=center><b>백곰</b></td>
     <td align=center><b>BE<br></b>(Team Lead)</td>
@@ -136,4 +133,54 @@
         <td align=center><a href="https://velog.io/@h-beeen/2024-SPARCS-Hackathon-%ED%9B%84%EA%B8%B0-feat.-%ED%8C%8C%ED%8B%B0%EB%B9%B5%EB%B9%B5"/>(Velog)</a></td>
   </tr>
 </table>
+</div>
+
+<br>
+<div align=center>
+
+## Presentations
+
+<table>
+  <tr>
+    <th align=center>Title</th>
+    <th align=center>Role</th>
+    <th align=center>Theme</th>
+    <th align=center>Date</th>
+    <th align=center>Venue</th>
+    <th align=center>Link</th>
+  </tr>
+    <tr>
+    <td align=center>구름톤유니브<br>온보딩 세미나</td>
+    <td align=center>Speaker</td>
+    <td align=center>해커톤에서<br>슬기롭게 살아남기</td>
+    <td align=center>24. 09. 21.</td>
+    <td align=center>kakao tech Bootcamp</td>
+    <td align=center></td>
+  </tr>
+    </tr>
+    <tr>
+    <td align=center>벚꽃톤 인터뷰</td>
+    <td align=center>Awardee</td>
+    <td align=center>최우수상 인터뷰</td>
+    <td align=center>24. 03. 24.</td>
+    <td align=center>kakao AI Campus<br>kakao tech Youtube</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=AqTSrinWXNs&t=6s"/>(Youtube)</td>
+  </tr>
+  <tr>
+    <td align=center>새싹콘서트</td>
+    <td align=center>Organizer</td>
+    <td align=center>개발자 지망생을 위한<br>새싹들의 토크콘서트</td>
+    <td align=center>24. 01. 03.</td>
+    <td align=center>우아한형제들 테크살롱</td>
+    <td align=center><a href="https://sskcon2024.vercel.app/"/>(Bio)</a><br><a href="https://velog.io/@h-beeen/%EC%83%88%EC%8B%B9%EC%BD%98%EC%84%9C%ED%8A%B8-%EC%9D%BC%EA%B0%9C-%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%A7%80%EC%9B%90%EC%9E%90%EA%B0%80-70%EB%AA%85-%EA%B7%9C%EB%AA%A8%EC%9D%98-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-%ED%96%89%EC%82%AC%EB%A5%BC-%EA%B0%9C%EC%B5%9C%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80"/>(Velog)</td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align=center>
+<h2>Velog</h2>
+  <img src="https://velog-github-badge.vercel.app/badge/h-beeen?theme=dark&posts=5">
 </div>

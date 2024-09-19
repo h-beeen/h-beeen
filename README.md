@@ -103,7 +103,7 @@
     <td align=center><b>경기선</b></td>
     <td align=center><b>BE</b></td>
     <td align=left>24' 04. ~<br>24' 10.</td>
-    <td><img height=30px src="https://velog.velcdn.com/images/h-beeen/post/683981af-805d-4187-a07e-c8caa850a442/image.png"/></td>
+    <td><img height=30px src="https://velog.velcdn.com/images/h-beeen/post/010eec4c-b19b-453f-a6fe-d1ab04de4992/image.png"/></td>
   </tr>
 
   <tr>

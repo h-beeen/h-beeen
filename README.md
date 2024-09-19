@@ -23,7 +23,7 @@
     <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</td>
   </tr>
   <tr>
-    <td><img src="https://camo.githubusercontent.com/2169d5c7654f7f51fe95e2d12d9a133aef82e2e4069d6feab63db784b61046e2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30362f4b6f746c696e5f49636f6e2e7376672f3230343870782d4b6f746c696e5f49636f6e2e7376672e706e67" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Kotlin</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Kotlin</td>
   <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>PostgresSQL</td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@
     <td align=center><b>경기선</b></td>
     <td align=center><b>BE</b></td>
     <td align=left>24' 04. ~<br>24' 10.</td>
-    <td></td>
+    <td><img height=30px src="https://velog.velcdn.com/images/h-beeen/post/683981af-805d-4187-a07e-c8caa850a442/image.png"/></td>
   </tr>
 
   <tr>

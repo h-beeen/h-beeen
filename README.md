@@ -92,6 +92,15 @@
     <td align=left>24' 01.</td>
         <td align=center><a href="https://velog.io/@h-beeen/GDSC-NEW-YEAR-HACKATHON-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-feat.-%EC%95%84%EB%9D%A0"/>(Velog)</a></td>
   </tr>
+
+  <tr>
+    <td align=center><b>Hyundai Motors</b><br>프리랜서 외주 개발</td>
+    <td colspan=2 align=center><b>내:일 챌린지</b></td>
+    <td align=center><b>BE</b></td>
+    <td align=left>24' 02. ~<br>24' 09.</td>
+    <td></td>
+  </tr>
+
   
   <tr>
     <td colspan=6></td>
@@ -103,7 +112,7 @@
     <td align=center><b>경기선</b></td>
     <td align=center><b>BE</b></td>
     <td align=left>24' 04. ~<br>24' 10.</td>
-    <td><a href="https://apps.apple.com/kr/app/%EA%B2%BD%EA%B8%B0%EC%84%A0-%EA%B2%BD%EA%B8%B0-%EC%97%AC%ED%96%89%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id6642667322"><img height=30px src="https://velog.velcdn.com/images/h-beeen/post/010eec4c-b19b-453f-a6fe-d1ab04de4992/image.png"/></a></td>
+    <td><a href="https://apps.apple.com/kr/app/%EA%B2%BD%EA%B8%B0%EC%84%A0-%EA%B2%BD%EA%B8%B0-%EC%97%AC%ED%96%89%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id6642667322"><img height=32px src="https://velog.velcdn.com/images/h-beeen/post/010eec4c-b19b-453f-a6fe-d1ab04de4992/image.png"/></a></td>
   </tr>
 
   <tr>
@@ -114,7 +123,7 @@
     <td align=left>24' 09. ~<br>24' 10.</td>
     <td></td>
   </tr>
-  
+
   <tr>
     <td align=center><b>YONSEI Univ.</b><br>사회문제 해결을 위한 해커톤</td>
     <td align=center>참가</td>

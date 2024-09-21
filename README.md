@@ -105,21 +105,21 @@
   </tr>
 
   <tr>
-    <td align=center><b>kakao X KTO</b><br>2024 관광데이터 활용 공모전</td>
-        <td align=center>본선 진행 중</b></td>
-    <td align=center><b>경기선</b></td>
-    <td align=center><b>BE<br></b>[2인 개발]</td>
-    <td align=left>24' 04. ~<br>24' 10.</td>
-    <td><a href="https://apps.apple.com/kr/app/%EA%B2%BD%EA%B8%B0%EC%84%A0-%EA%B2%BD%EA%B8%B0-%EC%97%AC%ED%96%89%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id6642667322"><img height=32px src="https://velog.velcdn.com/images/h-beeen/post/010eec4c-b19b-453f-a6fe-d1ab04de4992/image.png"/></a></td>
-  </tr>
-
-  <tr>
     <td align=center><b>Pusan DX Challenge</b><br>Dive 2024 글로벌 데이터 해커톤</td>
     <td align=center>본선 진행 중</b></td>
     <td align=center></td>
     <td align=center><b>BE<br>[2인 개발]</b></td>
     <td align=left>24' 09. ~<br>24' 10.</td>
     <td></td>
+  </tr>
+
+  <tr>
+    <td align=center><b>kakao X KTO</b><br>2024 관광데이터 활용 공모전</td>
+        <td align=center>본선 진행 중</b></td>
+    <td align=center><b>경기선</b></td>
+    <td align=center><b>BE<br></b>[2인 개발]</td>
+    <td align=left>24' 04. ~<br>24' 10.</td>
+    <td><a href="https://apps.apple.com/kr/app/%EA%B2%BD%EA%B8%B0%EC%84%A0-%EA%B2%BD%EA%B8%B0-%EC%97%AC%ED%96%89%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id6642667322"><img height=32px src="https://velog.velcdn.com/images/h-beeen/post/010eec4c-b19b-453f-a6fe-d1ab04de4992/image.png"/></a></td>
   </tr>
 
   <tr>

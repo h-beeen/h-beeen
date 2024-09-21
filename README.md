@@ -69,8 +69,8 @@
   <tr>
     <td align=center><b>kakao X goorm</b><br>구름톤 Univ In <b>Jeju</b></td>
         <td align=center>🥉 <b>우수상</b></td>
-    <td colspan=2 align=center><b>백곰</b></td>
-    <td colspan=2 align=center><b>BE<br></b>(Team Lead)</td>
+    <td rowspan=2 align=center><b>백곰</b></td>
+    <td rowspan=2 align=center><b>BE<br></b>(Team Lead)</td>
     <td align=left>24' 04. ~<br>24' 08.</td>
     <td align=center><a href="https://velog.io/@h-beeen/kakao-X-goorm-%EA%B5%AC%EB%A6%84%ED%86%A4-Univ-In-Jeju-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0"/>(Velog)</a></td>
   </tr>

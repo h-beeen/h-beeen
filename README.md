@@ -98,7 +98,7 @@
     <td colspan=2 align=center><b>내:일 챌린지</b></td>
     <td align=center><b>BE</b><br>[1인 개발]</td>
     <td align=left>24' 02. ~<br>24' 09.</td>
-    <td align=center><a href="https://velog.io/@h-beeen/2024-SPARCS-Hackathon-%ED%9B%84%EA%B8%B0-feat.-%ED%8C%8C%ED%8B%B0%EB%B9%B5%EB%B9%B5"/><img src="https://img.shields.io/badge/page-002c5f?style=for-the-badge&logo=hyundai&logoColor=white" height=25px></a></td>
+    <td align=center><a href="https://hwith.kr"/><img src="https://img.shields.io/badge/page-002c5f?style=for-the-badge&logo=hyundai&logoColor=white" height=25px></a></td>
   </tr>
 
   

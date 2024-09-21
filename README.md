@@ -70,7 +70,7 @@
     <td align=center><b>kakao X goorm</b><br>구름톤 Univ In <b>Jeju</b></td>
         <td align=center>🥉 <b>우수상</b></td>
     <td rowspan=2 align=center><b>백곰</b></td>
-    <td rowspan=2 align=center><b>BE<br></b>(Team Lead)</td>
+    <td rowspan=2 align=center><b>BE<br></b>(Team Lead)<br><br>[2인 개발]</td>
     <td align=left>24' 04. ~<br>24' 08.</td>
     <td align=center><a href="https://velog.io/@h-beeen/kakao-X-goorm-%EA%B5%AC%EB%A6%84%ED%86%A4-Univ-In-Jeju-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0"/>(Velog)</a></td>
   </tr>
@@ -86,7 +86,7 @@
     <td align=center><b>GDSC</b><br>New Year 해커톤</td>
     <td align=center><b>🥈 우수상</b></td>
     <td align=center><b>아띠</b></td>
-    <td align=center><b>BE</b></td>
+    <td align=center><b>BE<br>[2인 개발]</b></td>
     <td align=left>24' 01.</td>
         <td align=center><a href="https://velog.io/@h-beeen/GDSC-NEW-YEAR-HACKATHON-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-feat.-%EC%95%84%EB%9D%A0"/>(Velog)</a></td>
   </tr>
@@ -94,9 +94,9 @@
   <tr>
     <td align=center><b>Hyundai Motors</b><br>프리랜서 외주 개발</td>
     <td colspan=2 align=center><b>내:일 챌린지</b></td>
-    <td align=center><b>BE</b></td>
+    <td align=center><b>BE<br>[1인 개발]</b></td>
     <td align=left>24' 02. ~<br>24' 09.</td>
-    <td><a href="https://hwith.kr/event/opening"/>(Homepage)</a></td>
+    <td><a href="https://hwith.kr/event/opening">(Page)</a></td>
   </tr>
 
   
@@ -108,16 +108,16 @@
     <td align=center><b>kakao X KTO</b><br>2024 관광데이터 활용 공모전</td>
         <td align=center>본선 진행 중</b></td>
     <td align=center><b>경기선</b></td>
-    <td align=center><b>BE</b></td>
+    <td align=center><b>BE<br>[2인 개발]</b></td>
     <td align=left>24' 04. ~<br>24' 10.</td>
     <td><a href="https://apps.apple.com/kr/app/%EA%B2%BD%EA%B8%B0%EC%84%A0-%EA%B2%BD%EA%B8%B0-%EC%97%AC%ED%96%89%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id6642667322"><img height=32px src="https://velog.velcdn.com/images/h-beeen/post/010eec4c-b19b-453f-a6fe-d1ab04de4992/image.png"/></a></td>
   </tr>
 
   <tr>
     <td align=center><b>Pusan DX Challenge</b><br>Dive 2024 글로벌 데이터 해커톤</td>
-    <td align=center>예선 통과</b></td>
+    <td align=center>본선 진행 중</b></td>
     <td align=center></td>
-    <td align=center><b>BE</b></td>
+    <td align=center><b>BE<br>[2인 개발]</b></td>
     <td align=left>24' 09. ~<br>24' 10.</td>
     <td></td>
   </tr>
@@ -126,7 +126,7 @@
     <td align=center><b>YONSEI Univ.</b><br>사회문제 해결을 위한 해커톤</td>
     <td align=center>참가</td>
     <td align=center><b>감정톡톡</b></td>
-    <td align=center><b>BE</b></td>
+    <td align=center><b>BE<br>[2인 개발]</b></td>
     <td align=left>24' 02. ~<br>24' 03.</td>
     <td></td>
   </tr>
@@ -135,7 +135,7 @@
     <td align=center><b>KAIST Sparcs</b><br>2024 서비스 해커톤</td>
     <td align=center>참가</td>
     <td align=center><b>히어</b><br>Hear</td>
-    <td align=center><b>BE</b></td>
+    <td align=center><b>BE<br>[1인 개발]</b></td>
     <td align=left>24' 02.</td>
         <td align=center><a href="https://velog.io/@h-beeen/2024-SPARCS-Hackathon-%ED%9B%84%EA%B8%B0-feat.-%ED%8C%8C%ED%8B%B0%EB%B9%B5%EB%B9%B5"/>(Velog)</a></td>
   </tr>

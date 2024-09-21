@@ -96,7 +96,7 @@
     <td colspan=2 align=center><b>내:일 챌린지</b></td>
     <td align=center><b>BE</b><br>[1인 개발]</td>
     <td align=left>24' 02. ~<br>24' 09.</td>
-    <td><a href="https://hwith.kr/event/opening">(Page)</a></td>
+    <td align=center><a href="https://hwith.kr/event/opening">(HomePage)</a></td>
   </tr>
 
   

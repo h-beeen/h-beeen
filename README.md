@@ -69,8 +69,8 @@
   <tr>
     <td align=center><b>kakao X goorm</b><br>구름톤 Univ In <b>Jeju</b></td>
         <td align=center>🥉 <b>우수상</b></td>
-    <td align=center><b>백곰</b></td>
-    <td align=center><b>BE<br></b>(Team Lead)</td>
+    <td colspan=2 align=center><b>백곰</b></td>
+    <td colspan=2 align=center><b>BE<br></b>(Team Lead)</td>
     <td align=left>24' 04. ~<br>24' 08.</td>
     <td align=center><a href="https://velog.io/@h-beeen/kakao-X-goorm-%EA%B5%AC%EB%A6%84%ED%86%A4-Univ-In-Jeju-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0"/>(Velog)</a></td>
   </tr>
@@ -78,8 +78,6 @@
   <tr>
     <td align=center><b>kakao X goorm</b><br>2024 벚꽃톤</td>
     <td align=center>🥈 <b>최우수상</b></td>
-    <td align=center><b>백곰</b></td>
-    <td align=center><b>BE<br></b>(Team Lead)</td>
     <td align=left>24' 02. ~<br>24' 03.</td>
     <td align=center><a href="https://velog.io/@h-beeen/kakao-x-goorm-%EB%B2%9A%EA%BD%83%ED%86%A4-%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81-%EB%B0%B1%EA%B3%B0-%ED%9A%8C%EA%B3%A0"/>(Velog)</a></td>
   </tr>
@@ -98,7 +96,7 @@
     <td colspan=2 align=center><b>내:일 챌린지</b></td>
     <td align=center><b>BE</b></td>
     <td align=left>24' 02. ~<br>24' 09.</td>
-    <td></td>
+    <td><a href="https://hwith.kr/event/opening"/>(Homepage)</a></td>
   </tr>
 
   

@@ -107,7 +107,7 @@
   </tr>
 
   <tr>
-    <td align=center><b>Pusan DX Challenge</b><br>Dive 2024 글로벌 데이터 해커톤</td>
+    <td align=center><b>Pusan Dive 2024</b><br>글로벌 데이터 해커톤</td>
     <td align=center>진행 중</b></td>
     <td align=center></td>
     <td align=center><b>BE<br>[2인 개발]</b></td>
@@ -116,7 +116,7 @@
   </tr>
 
   <tr>
-    <td align=center><b>kakao X KTO</b><br>2024 관광데이터 활용 공모전</td>
+    <td align=center><b>kakao X KTO</b><br>관광데이터 활용 공모전</td>
         <td align=center>진행 중</b></td>
     <td align=center><b>경기선</b></td>
     <td align=center><b>BE<br></b>[2인 개발]</td>
@@ -125,7 +125,7 @@
   </tr>
 
   <tr>
-    <td align=center><b>YONSEI Univ.</b><br>사회문제 해결을 위한 해커톤</td>
+    <td align=center><b>YONSEI Univ.</b><br>사회문제 해결 해커톤</td>
     <td align=center>참가</td>
     <td align=center><b>감정톡톡</b></td>
     <td align=center><b>BE<br></b>[2인 개발]</td>

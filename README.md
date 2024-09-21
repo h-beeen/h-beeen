@@ -139,7 +139,7 @@
     <td align=center><b>히어</b><br>Hear</td>
     <td align=center><b>BE<br></b>[1인 개발]</td>
     <td align=left>24' 02.</td>
-    <td align=center><a href="https://velog.io/@h-beeen/2024-SPARCS-Hackathon-%ED%9B%84%EA%B8%B0-feat.-%ED%8C%8C%ED%8B%B0%EB%B9%B5%EB%B9%B5"/></td>
+    <td align=center><a href="https://velog.io/@h-beeen/2024-SPARCS-Hackathon-%ED%9B%84%EA%B8%B0-feat.-%ED%8C%8C%ED%8B%B0%EB%B9%B5%EB%B9%B5"/><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height=25px></a></td>
   </tr>
 </table>
 </div>

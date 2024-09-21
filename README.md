@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Kotlin</td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>PostgresSQL</td>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>PostgreSQL</td>
   </tr>
   <tr>
     <td rowspan="2" align="center"><b>Frameworks</td>
@@ -72,7 +72,9 @@
     <td rowspan=2 align=center><b>백곰</b></td>
     <td rowspan=2 align=center><b>BE, Lead</b><br>[2인 개발]</td>
     <td align=left>24' 04. ~<br>24' 08.</td>
-    <td align=center><a href="https://velog.io/@h-beeen/kakao-X-goorm-%EA%B5%AC%EB%A6%84%ED%86%A4-Univ-In-Jeju-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0"/>(Velog)</a></td>
+    <td align=center><a href="https://velog.io/@h-beeen/kakao-X-goorm-%EA%B5%AC%EB%A6%84%ED%86%A4-Univ-In-Jeju-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0"/><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height=16px></td>
+
+
   </tr>
 
   <tr>

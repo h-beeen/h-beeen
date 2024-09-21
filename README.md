@@ -108,7 +108,7 @@
 
   <tr>
     <td align=center><b>Pusan DX Challenge</b><br>Dive 2024 글로벌 데이터 해커톤</td>
-    <td align=center>본선 진행 중</b></td>
+    <td align=center>진행 중</b></td>
     <td align=center></td>
     <td align=center><b>BE<br>[2인 개발]</b></td>
     <td align=left>24' 09. ~<br>24' 10.</td>
@@ -117,7 +117,7 @@
 
   <tr>
     <td align=center><b>kakao X KTO</b><br>2024 관광데이터 활용 공모전</td>
-        <td align=center>본선 진행 중</b></td>
+        <td align=center>진행 중</b></td>
     <td align=center><b>경기선</b></td>
     <td align=center><b>BE<br></b>[2인 개발]</td>
     <td align=left>24' 04. ~<br>24' 10.</td>

@@ -16,8 +16,8 @@
     <td colspan=2><img src="https://velog.velcdn.com/images/h-beeen/post/ad0b9177-7cf4-442c-874c-eaba21c89ac6/image.png"/></td>
   </tr>
   <tr>
-    <td>1</td>
-    <td>2</td>
+    <td><img src="https://velog.velcdn.com/images/h-beeen/post/01c990cb-f58e-465d-a824-9ba38ff3e83c/image.png"/></td>
+    <td><img src="https://velog.velcdn.com/images/h-beeen/post/28c97fc2-5961-4d6c-842c-cecbb938720b/image.png"/></td>
   </tr>
 </table>
 

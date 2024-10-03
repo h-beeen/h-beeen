@@ -16,9 +16,9 @@
   </tr>
   <tr>
     <td colspan=2><img src="https://velog.velcdn.com/images/h-beeen/post/ad0b9177-7cf4-442c-874c-eaba21c89ac6/image.png"/></td>
+    <td>1</td>
   </tr>
   <tr>
-    <td>1</td>
     <td>2</td>
   </tr>
 </table>

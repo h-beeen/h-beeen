@@ -12,13 +12,11 @@
 
 <table>
   <tr>
-    <td rowspan=2 align="center"><img src="https://velog.velcdn.com/images/h-beeen/post/0a92cba8-106c-49d1-aa87-4dde171b4ea1/image.png"/></td>
-  </tr>
-  <tr>
+    <td rowspan=2 colspan=2 align="center"><img src="https://velog.velcdn.com/images/h-beeen/post/0a92cba8-106c-49d1-aa87-4dde171b4ea1/image.png"/></td>
     <td colspan=2><img src="https://velog.velcdn.com/images/h-beeen/post/ad0b9177-7cf4-442c-874c-eaba21c89ac6/image.png"/></td>
-    <td>1</td>
   </tr>
   <tr>
+    <td>1</td>
     <td>2</td>
   </tr>
 </table>

@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td><img src="https://velog.velcdn.com/images/h-beeen/post/01c990cb-f58e-465d-a824-9ba38ff3e83c/image.png"/></td>
-    <td><img src="https://velog.velcdn.com/images/h-beeen/post/28c97fc2-5961-4d6c-842c-cecbb938720b/image.png"/></td>
+    <td><img src="https://velog.velcdn.com/images/h-beeen/post/77fd96cb-73b6-4038-8c5c-690c588d3032/image.png"/></td>
   </tr>
 </table>
 

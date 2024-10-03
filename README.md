@@ -107,7 +107,16 @@
   </tr>
 
   <tr>
-    <td align=center><b>Pusan Dive 2024</b><br>글로벌 데이터 해커톤</td>
+    <td align=center><b>Sparcs 2024</b><br>Science 해커톤</td>
+    <td align=center>진행 중</b></td>
+    <td align=center></td>
+    <td align=center><b>BE<br>[1인 개발]</b></td>
+    <td align=left>24' 10.</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td align=center><b>Busan Dive 2024</b><br>글로벌 데이터 해커톤</td>
     <td align=center>진행 중</b></td>
     <td align=center></td>
     <td align=center><b>BE<br>[2인 개발]</b></td>

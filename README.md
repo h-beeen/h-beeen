@@ -10,6 +10,19 @@
 
 <br/>
 
+<table>
+  <tr>
+    <td rowspan=2 align="center"><img src="https://velog.velcdn.com/images/h-beeen/post/0a92cba8-106c-49d1-aa87-4dde171b4ea1/image.png"/></td>
+  </tr>
+  <tr>
+    <td colspan=2><img src="https://velog.velcdn.com/images/h-beeen/post/ad0b9177-7cf4-442c-874c-eaba21c89ac6/image.png"/></td>
+  </tr>
+</table>
+
+
+
+<br/>
+
 ## Tech Skills
 
 <br>
@@ -107,7 +120,7 @@
   </tr>
 
   <tr>
-    <td align=center><b>Sparcs 2024</b><br>Science 해커톤</td>
+    <td align=center><b>KAIST Sparcs</b><br>2024 Science 해커톤</td>
     <td align=center>진행 중</b></td>
     <td align=center></td>
     <td align=center><b>BE<br>[1인 개발]</b></td>

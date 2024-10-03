@@ -201,7 +201,7 @@
 
 <div align=center>
 <h2>Velog</h2>
-  <img src="https://velog-github-badge.vercel.app/badge/h-beeen?theme=dark&posts=5">
+  <a href="https://velog.io/@h-beeen"><img src="https://velog-github-badge.vercel.app/badge/h-beeen?theme=dark&posts=5"></a>
 </div>
 
 <div align=center>

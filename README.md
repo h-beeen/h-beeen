@@ -67,11 +67,20 @@
     <th align=center>Link</th>
   </tr>
 
+<tr>
+    <td align=center><b>부산광역시 Dive 2024</b><br>글로벌 데이터 해커톤</td>
+    <td align=center>🥉 3위<br>부산테크노파크원장상</b></td>
+    <td align=center>Bive</td>
+    <td align=center><b>PM</b></td>
+    <td align=left>24' 10</td>
+    <td></td>
+  </tr>
+
   <tr>
     <td align=center><b>kakao X goorm</b><br>구름톤 Univ In <b>Jeju</b></td>
         <td align=center>🥉 <b>우수상</b></td>
     <td rowspan=2 align=center><b>백곰</b></td>
-    <td rowspan=2 align=center><b>BE, Lead</b><br>[2인 개발]</td>
+    <td rowspan=2 align=center><b>Lead, BE</b><br>[2인 개발]</td>
     <td align=left>24' 04. ~<br>24' 08.</td>
     <td align=center><a href="https://velog.io/@h-beeen/kakao-X-goorm-%EA%B5%AC%EB%A6%84%ED%86%A4-Univ-In-Jeju-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0"/><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height=25px></td>
 
@@ -80,7 +89,7 @@
 
   <tr>
     <td align=center><b>kakao X goorm</b><br>2024 벚꽃톤</td>
-    <td align=center>🥈 <b>최우수상<br></b></td>
+    <td align=center>🥈 <b>최우수상<br>goorm 대표이사상</b></td>
     <td align=left>24' 02. ~<br>24' 03.</td>
         <td align=center><a href="https://velog.io/@h-beeen/kakao-x-goorm-%EB%B2%9A%EA%BD%83%ED%86%A4-%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81-%EB%B0%B1%EA%B3%B0-%ED%9A%8C%EA%B3%A0"/><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height=25px></td>
   </tr>
@@ -113,15 +122,6 @@
     <td align=center></td>
     <td align=center><b>BE<br>[1인 개발]</b></td>
     <td align=left>24' 10.</td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td align=center><b>Busan Dive 2024</b><br>글로벌 데이터 해커톤</td>
-    <td align=center>진행 중</b></td>
-    <td align=center></td>
-    <td align=center><b>BE<br>[2인 개발]</b></td>
-    <td align=left>24' 09. ~<br>24' 10.</td>
     <td></td>
   </tr>
 

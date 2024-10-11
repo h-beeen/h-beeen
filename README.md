@@ -69,7 +69,7 @@
 
 <tr>
     <td align=center><b>부산광역시 Dive 2024</b><br>글로벌 데이터 해커톤</td>
-    <td align=center>🥉<br><b>3위</b></td>
+    <td align=center>🥉 <b>3위</b></td>
     <td align=center><b>Bive</td>
     <td align=center><b>PM</b></td>
     <td align=left>24' 10</td>

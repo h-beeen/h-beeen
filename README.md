@@ -97,7 +97,7 @@
   <tr>
     <td align=center><b>GDSC</b><br>New Year 해커톤</td>
     <td align=center><b>🥈 우수상</b></td>
-    <td align=center><b>아띠</b><br>: 당신의 감정 도우미</td>
+    <td align=center><b>아띠</b></td>
     <td align=center><b>BE</b><br>[2인 개발]</td>
     <td align=left>24' 01.</td>
     <td align=center><a href="https://velog.io/@h-beeen/GDSC-NEW-YEAR-HACKATHON-%EC%9A%B0%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-feat.-%EC%95%84%EB%9D%A0"/><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height=25px></td>

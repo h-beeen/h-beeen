@@ -25,7 +25,7 @@
 
   <tr>
     <td align=center><b>kakao X KTO</b><br>관광데이터 활용 공모전</td>
-        <td align=center>🎖️<b>한국관광공사<br>사장상</b></td>
+        <td align=center>🎖️ <b>한국관광공사<br>사장상</b></td>
     <td align=center><b>경기선</b></td>
     <td align=center><b>BE<br></b>[2인 개발]</td>
     <td align=left>24' 04. ~<br>24' 10.</td>

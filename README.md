@@ -29,7 +29,7 @@
          style="height: 1em; vertical-align: middle;">
     <strong><i>Backend Developer</i></strong>
   </span>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.hectocareers.co.kr/ko/peopleview-hd2">API개발팀</a>
 </li>
 

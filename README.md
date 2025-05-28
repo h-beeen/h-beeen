@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-## 🧑‍💻 About me
+## 🚀 About me
 
 ### 👋 안녕하세요!
 
@@ -33,7 +33,7 @@
 ## 🏅 Awards
 
 
-- [2024-02] ***3rd Place 🎖️*** GDCS New Year Hackathon 🎆
+- [2024-02] ***3rd Place 🎖️*** GDCS 2024 New Year Hackathon 🎆
 - [2024-03] ***2nd Place 🎖️*** kakao X goorm Beotkkothon 🌸 - [kakao Tech Interview](https://www.youtube.com/watch?v=AqTSrinWXNs&t=96s)
 - [2024-08] ***3rd Place 🎖️*** kakao X goorm goormthon Univ In Jeju 🍊 - [goorm Interview](https://www.youtube.com/watch?v=-tKYqBW6Vk8&t=238s)
 - [2024-10] ***3rd Place 🎖️*** Dive 2024 Global Data Hackathon

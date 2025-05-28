@@ -20,48 +20,11 @@
 
 ### 🧑‍💻 Experience
 
-<table border="1" cellspacing="0" cellpadding="8">
-  <thead>
-    <tr>
-      <th colspan="2">Period</th>
-      <th>Experience</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">2022.11</td>
-      <td align="center">2023.11</td>
-      <td>과학기술정보통신부 <a href="https://42seoul.kr" target="_blank"><strong><i>42Seoul</i></strong></a><br>8기 본과정교육생 (Cadet)</td>
-    </tr>
-    <tr>
-      <td align="center">2024.01</td>
-      <td align="center">2024.05</td>
-      <td>
-        <strong><i>Freelance Backend Engineer</i></strong><br>
-        <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="https://velog.velcdn.com/images/h-beeen/post/ed250cc8-a118-401f-8aa3-1e27cb91d889/image.png"
-          style="height: 1em; vertical-align: middle;">
-        <img 
-          alt="hyundai" 
-          src="https://velog.velcdn.com/images/h-beeen/post/d1be3eaa-f0d2-4333-ac35-27576b35c62a/image.png" 
-          style="height: 1em; vertical-align: middle;">
-        &nbsp;<a href="https://hwith.kr" target="_blank">내:일 챌린지</a> Backend Lead
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2024.05</td>
-      <td align="center">CURRENT</td>
-      <td>
-        <strong><i>Backend Developer</i></strong><br>
-        <span style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px;">
-          <img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png" style="height: 1em; vertical-align: middle;">
-          <a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank">API개발팀</a>
-        </span>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<li>
+  <span style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px;">
+    <img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png" style="height: 1em; vertical-align: middle;">
+  </span>&nbsp;&nbsp;<strong><i>Backend Developer (2024. 05 ~ NOW)</i></strong>&nbsp;<a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank">API개발팀</a>
+</li>
 
 
 

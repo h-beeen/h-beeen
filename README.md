@@ -9,6 +9,7 @@
 
 ### 👋 안녕하세요!
 
+`dev.beeen@kakao.com`
 2년차 백엔드 개발자 햅 입니다.
 
 다양한 기술 스택을 활용해 아이디어를 실제 서비스로 구현하는  
@@ -41,5 +42,3 @@
 - [2024-12] ***Finalist 🌟*** Brian Impact Foundation Finalist 💰
 
 &nbsp;&nbsp;
-
-![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-beeen&theme=vue)

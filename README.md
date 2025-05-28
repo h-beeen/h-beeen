@@ -18,7 +18,7 @@
 기여하는 일에 진심을 다하고 있습니다.  
 <br>
 
-### 🧑‍💻 Experience
+## 🧑‍💻 Experience
 
 <li>
   <span style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px;">
@@ -39,3 +39,7 @@
 - [2024-10] ***3rd Place 🎖️*** Dive 2024 Global Data Hackathon
 - [2024-11] ***4th Place 🎖️*** kakao X KTO 2024 Tourism Data Competition ✈️
 - [2024-12] ***Finalist 🌟*** Brian Impact Foundation Finalist 💰
+
+&nbsp;&nbsp;
+
+![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-beeen&theme=vue)

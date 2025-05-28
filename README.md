@@ -23,8 +23,8 @@
 
 <li>
   [2024. 05 ~ <b>NOW</b>]&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px;">
-    <a href="https://hectodata.co.kr/" target="_blank">
+  <span style="display: inline-flex; align-items: center; font-size: 16px;">
+    <a href="https://hectodata.co.kr/">
       <img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png" 
            alt="Hectodata Logo"
            style="height: 1em; vertical-align: middle;">

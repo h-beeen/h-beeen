@@ -22,7 +22,7 @@
 ## 🧑‍💻 Experience
 
 <li>
-  [2024. 05 ~ NOW] <span style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px;">
+  [2024. 05 ~ NOW]&nbsp;&nbsp;<span style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px;">
     <img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png" style="height: 1em; vertical-align: middle;">
   </span>&nbsp;<strong><i>Backend Developer </i></strong>&nbsp;<a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank">API개발팀</a>
 </li>

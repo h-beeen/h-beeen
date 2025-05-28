@@ -27,7 +27,7 @@
     <a href="https://hectodata.co.kr/" target="_blank">
       <img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png" 
            alt="Hectodata Logo" 
-           style="height: 1em; vertical-align: middle;">
+           style="width=100%">
     </a>
     &nbsp;&nbsp;<strong><i>Backend Developer</i></strong>
   </span>

@@ -26,14 +26,15 @@
   <span style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px;">
     <a href="https://hectodata.co.kr/" target="_blank">
       <img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png" 
-           alt="Hectodata Logo" 
-           style="width=100%">
+           alt="Hectodata Logo"
+           style="height: 1em; vertical-align: middle;">
     </a>
-    &nbsp;&nbsp;<strong><i>Backend Developer</i></strong>
+    <strong><i>Backend Developer</i></strong>
   </span>
   &nbsp;&nbsp;
   <a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank">API개발팀</a>
 </li>
+
 
 
 

@@ -43,6 +43,6 @@
 - [2024-08] ***3rd Place 🎖️*** kakao X goorm goormthon Univ In Jeju 🍊 - [goorm Interview](https://www.youtube.com/watch?v=-tKYqBW6Vk8&t=238s)
 - [2024-10] ***3rd Place 🎖️*** Dive 2024 Global Data Hackathon
 - [2024-11] ***4th Place 🎖️*** kakao X KTO 2024 Tourism Data Competition ✈️
-- [2024-12] ***Finalist 🌟*** Brian Impact Foundation Finalist 💰
+- [2024-12] ***Finalist 🌟*** Brian Impact Foundation - Side Impact Track Round 1 Finalist 💰
 
 &nbsp;&nbsp;

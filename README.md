@@ -22,8 +22,17 @@
 기여하는 일에 진심을 다하고 있습니다.  
 <br>
 
-## 🧑‍💻 Experience
+## 🧑‍💻 Job Experience
 
+<li>
+  [2024. 01 ~ <b>2024. 05</b>]&nbsp;
+  <span style="display: inline-flex; align-items: center; gap: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_Motor_Company_logo.svg/2560px-Hyundai_Motor_Company_logo.svg.png" 
+         alt="Hyundai Logo"
+         style="height: 1em; vertical-align: middle;">
+    &nbsp;<strong><i>Freelance Backend Developer</i></strong>
+  </span>
+</li>
 <li>
   [2024. 05 ~ <b>NOW</b>]&nbsp;
   <span style="display: inline-flex; align-items: center; gap: 8px;">
@@ -41,11 +50,18 @@
 ## 🏅 Awards
 
 
-- [2024-02] ***3rd Place 🎖️*** GDCS 2024 New Year Hackathon 🎆
-- [2024-03] ***2nd Place 🎖️*** kakao X goorm Beotkkothon 🌸 - [kakao Tech Interview](https://www.youtube.com/watch?v=AqTSrinWXNs&t=96s)
-- [2024-08] ***3rd Place 🎖️*** kakao X goorm goormthon Univ In Jeju 🍊 - [goorm Interview](https://www.youtube.com/watch?v=-tKYqBW6Vk8&t=238s)
-- [2024-10] ***3rd Place 🎖️*** Dive 2024 Global Data Hackathon
-- [2024-11] ***4th Place 🎖️*** kakao X KTO 2024 Tourism Data Competition ✈️
-- [2024-12] ***Finalist 🌟*** Brian Impact Foundation - Side Impact Track Round 1 Finalist 💰
+- [2024-02] ***3rd Place 🎖️*** GDSC | 2024 뉴이어해커톤 🎆
+- [2024-03] ***2nd Place 🎖️*** 카카오 X 구름 | 2024 벚꽃톤 🌸
+- [2024-08] ***3rd Place 🎖️*** 카카오 X 구름 | 구름톤유니브 In Jeju 🍊
+- [2024-10] ***3rd Place 🎖️*** 부산광역시 | Dive 2024 글로벌데이터해커톤
+- [2024-11] ***4th Place 🎖️*** 카카오 X 한국관광공사 | 2024 관광데이터활용공모전 ✈️
+- [2024-12] ***Finalist 🌟*** 카카오 브라이언임팩트 재단 | 사이드임팩트 Round1 최종 선정 💰
 
-&nbsp;&nbsp;
+<br>
+
+## 🗣️ Press
+
+- [\[중앙일보 더버터\] 해커톤 수상작은 왜 사라질까…개발자가 제안한 지속가능성 실험](https://n.news.naver.com/article/025/0003421958?sid=102)
+- [\[중앙일보 더버터\] '사이드임팩트'가 우리에게 남긴 것](https://www.thebutter.org/news/articleView.html?idxno=1108)
+- [\[카카오테크 유튜브 벚꽃톤 수상자 인터뷰\]](https://www.youtube.com/watch?v=AqTSrinWXNs&t=96s)
+- [\[구름 유튜브 구름톤유니브 In Jeju 수상자 인터뷰\]](https://www.youtube.com/watch?v=-tKYqBW6Vk8&t=238sㄴ)

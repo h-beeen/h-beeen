@@ -61,7 +61,6 @@
 
 ## 🗣️ Press
 
-- [\[중앙일보 더버터\] 해커톤 수상작은 왜 사라질까…개발자가 제안한 지속가능성 실험](https://n.news.naver.com/article/025/0003421958?sid=102)
-- [\[중앙일보 더버터\] '사이드임팩트'가 우리에게 남긴 것](https://www.thebutter.org/news/articleView.html?idxno=1108)
+- [\[중앙일보 더버터 인터뷰\] '사이드임팩트'가 우리에게 남긴 것](https://www.thebutter.org/news/articleView.html?idxno=1108)
 - [\[카카오테크 유튜브 벚꽃톤 수상자 인터뷰\]](https://www.youtube.com/watch?v=AqTSrinWXNs&t=96s)
 - [\[구름 유튜브 구름톤유니브 In Jeju 수상자 인터뷰\]](https://www.youtube.com/watch?v=-tKYqBW6Vk8&t=238s)

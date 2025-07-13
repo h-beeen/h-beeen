@@ -25,15 +25,6 @@
 ## 🧑‍💻 Job Experience
 
 <li>
-  [2024. 01 ~ <b>2024. 05</b>]&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_Motor_Company_logo.svg/2560px-Hyundai_Motor_Company_logo.svg.png" 
-         alt="Hyundai Logo"
-         style="height: 1em; vertical-align: middle;">
-    &nbsp;<strong><i>Freelance Backend Developer</i></strong>
-  </span>
-</li>
-<li>
   [2024. 05 ~ <b>NOW</b>]&nbsp;
   <span style="display: inline-flex; align-items: center; gap: 8px;">
     <img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png" 

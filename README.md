@@ -15,8 +15,6 @@
 
 <br>
 
-## 🏅 Awards
-
 - [2024-02] ***3rd Place 🎖️*** GDSC | 2024 뉴이어해커톤 🎆
 - [2024-03] ***2nd Place 🎖️*** 카카오 X 구름 | 2024 벚꽃톤 🌸
 - [2024-08] ***3rd Place 🎖️*** 카카오 X 구름 | 구름톤유니브 In Jeju 🍊
@@ -25,8 +23,6 @@
 - [2024-12] ***Finalist 🌟*** 카카오 브라이언임팩트 재단 | 사이드임팩트 Round1 최종 선정 💰
 
 <br>
-
-## 🗣️ Press
 
 - [\[중앙일보 더버터 인터뷰\] '사이드임팩트'가 우리에게 남긴 것](https://www.thebutter.org/news/articleView.html?idxno=1108)
 - [\[카카오테크 유튜브 벚꽃톤 수상자 인터뷰\]](https://www.youtube.com/watch?v=AqTSrinWXNs&t=96s)

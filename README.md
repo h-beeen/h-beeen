@@ -3,7 +3,7 @@
 </a>
 <br><br><br>
 
-<img src="/song.svg" alt="spotify-github-profile" align="right" height="200" style="margin-left:20px;">
+<img src="/song.svg" alt="spotify-github-profile" align="right" height="350" style="margin-left:20px;">
 <span><strong>2024-05 ~ NOW |</strong>&nbsp;&nbsp;
 <img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png"alt="Hectodata Logo"style="height: 13px; vertical-align: middle;">
 <span>&nbsp;&nbsp;<strong>@codef-io</strong>&nbsp;&nbsp;(1Y 7M)<br>

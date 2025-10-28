@@ -8,17 +8,14 @@
       alt="Hectodata Logo"
       style="height: 1em; vertical-align: middle;"
     >
-    <p><strong>Backend Developer</strong></p>
-    ·
-    <a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank" rel="noopener noreferrer">
-      API Development Team
-    </a>
+    <p><strong>Backend Developer</strong>
+        <a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank" rel="noopener noreferrer">API Development Team</a>
+    </p>
 </div>
 
 <br>
 
 ## 🏅 Awards
-
 
 - [2024-02] ***3rd Place 🎖️*** GDSC | 2024 뉴이어해커톤 🎆
 - [2024-03] ***2nd Place 🎖️*** 카카오 X 구름 | 2024 벚꽃톤 🌸

@@ -8,7 +8,7 @@
       alt="Hectodata Logo"
       style="height: 1em; vertical-align: middle;"
     >
-    &nbsp;·&nbsp;<strong>Backend Developer</strong>
+    <p><strong>Backend Developer</strong></p>
     ·
     <a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank" rel="noopener noreferrer">
       API Development Team

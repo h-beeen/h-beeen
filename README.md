@@ -7,7 +7,7 @@
       src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png"
       alt="Hectodata Logo"
       style="height: 1em; vertical-align: middle;"
-    >&nbsp;<strong><a href="https://codef.io/>"@codef-io</strong></a>
+    ><span>&nbsp;<strong>@codef-io</strong>
     <p><i><strong>Backend Developer</strong>&nbsp;ㆍ&nbsp;
         <a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank" rel="noopener noreferrer">API Development Team</a></i>
     </p>
@@ -15,12 +15,12 @@
 
 <br>
 
-- [2024-02] ***3rd Place 🎖️*** GDSC | 2024 뉴이어해커톤 🎆
-- [2024-03] ***2nd Place 🎖️*** 카카오 X 구름 | 2024 벚꽃톤 🌸
-- [2024-08] ***3rd Place 🎖️*** 카카오 X 구름 | 구름톤유니브 In Jeju 🍊
-- [2024-10] ***3rd Place 🎖️*** 부산광역시 | Dive 2024 글로벌데이터해커톤 🌏
-- [2024-11] ***4th Place 🎖️*** 카카오 X 한국관광공사 | 2024 관광데이터활용공모전 ✈️
-- [2024-12] ***Finalist 🌟*** 카카오 브라이언임팩트 재단 | 사이드임팩트 Round1 최종 선정 💰
+- [2024-02] ***3rd Place 🎖️*** GDSC | 2024 New Year Hackathon 🎆
+- [2024-03] ***2nd Place 🎖️*** kakao X goorm | 2024 Beotkkot-thon 🌸
+- [2024-08] ***3rd Place 🎖️*** kakao X goorm | 9oormthon Univ In Jeju 🍊
+- [2024-10] ***3rd Place 🎖️*** Busan | Dive 2024 Global Data Hackathon 🌏
+- [2024-11] ***4th Place 🎖️*** kakao X KTO | 2024 Tourism Data Competition ✈️
+- [2024-12] ***Finalist 🌟*** Kakao Brian Impact | Side Impact Round1 💰
 
 <br>
 

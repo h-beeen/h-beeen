@@ -1,40 +1,19 @@
-<a title="h-beeen" href="https://github.com/h-beeen">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=h-beeen&desc=Back-End%20Developer&section=header&reversal=false&textBg=false&fontColor=ffffff&fontSize=100&fontAlign=74.5&animation=twinkling&descAlignY=64&descAlign=63" width="70%">
-    <img alt="Profile" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=h-beeen&desc=Back-End%20Developer&section=header&reversal=false&textBg=false&fontColor=000000&fontSize=100&fontAlign=74.5&animation=twinkling&descAlignY=64&descAlign=63" width="70%">
-  </picture>
-</a>
+![Blackhole Banner](https://ishan-rest.vercel.app/svg/banner/blackhole/Enthusiast)
 
-## 🚀 About me
 
-### 👋 안녕하세요!
-
-`dev.beeen@kakao.com`  
-2년차 백엔드 개발자 햅 입니다.
-
-다양한 기술 스택을 활용해 아이디어를 실제 서비스로 구현하는  
-<i>***Zero to One***</i>의 여정을 즐기는 개발자입니다.  
-<br>
-지난 2024년, 현업과 병행하며 총 9개의 해커톤, 공모전, 지원 사업에 참여하고,  
-이중 6개의 프로그램에서 수상 성과를 거뒀습니다.  
-<br>
-단순한 개발을 넘어, 사회적 가치를 담은 서비스에  
-기여하는 일에 진심을 다하고 있습니다.  
-<br>
-
-## 🧑‍💻 Job Experience
-
-<li>
-  [2024. 05 ~ <b>NOW</b>]&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png" 
-         alt="Hectodata Logo"
-         style="height: 1em; vertical-align: middle;">
-    &nbsp;<strong><i>Backend Developer</i></strong>
-  </span>
-  <a href="https://www.hectocareers.co.kr/ko/peopleview-hd2">API개발팀</a>
-</li>
-
+<div>
+  <span><strong>2024-05 ~ NOW |</strong>&nbsp;&nbsp;</span>
+    <img 
+      src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png"
+      alt="Hectodata Logo"
+      style="height: 1em; vertical-align: middle;"
+    >
+    &nbsp;·&nbsp;<strong>Backend Developer</strong>
+    ·
+    <a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank" rel="noopener noreferrer">
+      API Development Team
+    </a>
+</div>
 
 <br>
 

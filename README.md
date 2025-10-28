@@ -15,12 +15,13 @@
 
 <br>
 
-<span>[2024-02] <b><i>3rd Place 🎖️</i></b> GDSC | 2024 New Year Hackathon 🎆</span><br>
-<span>[2024-03] <b><i>2nd Place 🎖️</i></b> kakao X goorm | 2024 Beotkkot-thon 🌸</span><br>
-<span>[2024-08] <b><i>3rd Place 🎖️</i></b> kakao X goorm | 9oormthon Univ In Jeju 🍊</span><br>
-<span>[2024-10] <b><i>3rd Place 🎖️</i></b> Busan | Dive 2024 Global Data Hackathon 🌏</span><br>
-<span>[2024-11] <b><i>4th Place 🎖️</i></b> kakao X KTO | 2024 Tourism Data Competition ✈️</span><br>
-<span>[2024-12] <b><i>Finalist 🌟</i></b> Kakao Brian Impact | Side Impact Round1 💰</span><br>
+<span><b><i>3rd Place 🎖️</i></b>&nbsp;ㆍ&nbsp;GDSC&nbsp;ㆍ&nbsp;2024 New Year Hackathon 🎆</span><br>
+<span><b><i>2nd Place 🎖️</i></b>&nbsp;ㆍ&nbsp;kakao X goorm&nbsp;ㆍ&nbsp;2024 Beotkkot-thon 🌸</span><br>
+<span><b><i>3rd Place 🎖️</i></b>&nbsp;ㆍ&nbsp;kakao X goorm&nbsp;ㆍ&nbsp;9oormthon Univ In Jeju 🍊</span><br>
+<span><b><i>3rd Place 🎖️</i></b>&nbsp;ㆍ&nbsp;Busan&nbsp;ㆍ&nbsp;Dive 2024 Global Data Hackathon 🌏</span><br>
+<span><b><i>4th Place 🎖️</i></b>&nbsp;ㆍ&nbsp;kakao X KTO&nbsp;ㆍ&nbsp;2024 Tourism Data Competition ✈️</span><br>
+<span><b><i>Finalist 🌟</i></b>&nbsp;ㆍ&nbsp;Kakao Brian Impact&nbsp;ㆍ&nbsp;Side Impact Round1 💰</span><br>
+
 
 
 <br>

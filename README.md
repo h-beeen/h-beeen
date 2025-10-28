@@ -32,11 +32,11 @@
 
 <span><strong><a href="https://www.youtube.com/watch?v=AqTSrinWXNs&t=96s" target="_blank" rel="noopener noreferrer">
 Interview with Beotkkot-thon Winners
-</a></strong> · kakaoTech YouTube</span><br>
+</a></strong> · kakaoTech YouTube</span>
 
 <span><strong><a href="https://www.youtube.com/watch?v=-tKYqBW6Vk8&t=238s" target="_blank" rel="noopener noreferrer">
 Interview with 9oormthon Univ In Jeju Winners
-</a></strong> · goorm YouTube</span><br>
+</a></strong> · goorm YouTube</span>
 
 <span><strong><a href="https://www.thebutter.org/news/articleView.html?idxno=1108" target="_blank" rel="noopener noreferrer">
 What “Side Impact” Left for Us

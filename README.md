@@ -7,11 +7,8 @@
   <img src="/song.svg" alt="spotify-github-profile" align="right" height="300" style="margin-left:20px;">
 </a>
 
-<span><strong>2024-05 ~ NOW |</strong>&nbsp;&nbsp;
-<img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png" alt="Hectodata Logo" style="height: 13px; vertical-align: middle;">
-<span>&nbsp;&nbsp;<strong>@codef-io</strong>&nbsp;&nbsp;(1Y 7M)<br>
-<i><strong>Backend Developer</strong>&nbsp;ㆍ&nbsp;
-<a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank" rel="noopener noreferrer">
+<span><strong>2024-05 ~ NOW |</strong>&nbsp;&nbsp;<img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png" alt="Hectodata Logo" style="height: 13px; vertical-align: middle;">
+<span>&nbsp;&nbsp;<strong>@codef-io</strong>&nbsp;&nbsp;(1Y 7M)<br><i><strong>Backend Developer</strong>&nbsp;ㆍ&nbsp;<a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank" rel="noopener noreferrer">
 API Development Team
 </a>
 </i>

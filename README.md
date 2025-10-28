@@ -15,6 +15,9 @@
         <a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank" rel="noopener noreferrer">API Development Team</a></i>
 </div>
 
+<br>
+<br>
+
 <span><b><i>3rd Place 🎖️</i></b>&nbsp;ㆍ&nbsp;GDSC&nbsp;ㆍ&nbsp;2024 New Year Hackathon 🎆</span><br>
 <span><b><i>2nd Place 🎖️</i></b>&nbsp;ㆍ&nbsp;kakao X goorm&nbsp;ㆍ&nbsp;2024 Beotkkot-thon 🌸</span><br>
 <span><b><i>3rd Place 🎖️</i></b>&nbsp;ㆍ&nbsp;kakao X goorm&nbsp;ㆍ&nbsp;9oormthon Univ In Jeju 🍊</span><br>

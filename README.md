@@ -27,11 +27,6 @@
 <br>
 
 <span>
-  <a href="https://www.thebutter.org/news/articleView.html?idxno=1108" target="_blank" rel="noopener noreferrer">
-    [중앙일보 더버터 인터뷰] '사이드임팩트'가 우리에게 남긴 것
-  </a>
-</span><br>
-<span>
   <a href="https://www.youtube.com/watch?v=AqTSrinWXNs&t=96s" target="_blank" rel="noopener noreferrer">
     [카카오테크 유튜브 벚꽃톤 수상자 인터뷰]
   </a>
@@ -41,3 +36,8 @@
     [구름 유튜브 구름톤유니브 In Jeju 수상자 인터뷰]
   </a>
 </span><br>
+<span>
+  <a href="https://www.thebutter.org/news/articleView.html?idxno=1108" target="_blank" rel="noopener noreferrer">
+    [중앙일보 더버터 인터뷰] '사이드임팩트'가 우리에게 남긴 것
+  </a>
+</span>

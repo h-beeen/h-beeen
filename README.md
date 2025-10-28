@@ -1,4 +1,4 @@
-<a href="https://github.com/h-beeen"><img src="https://ishan-rest.vercel.app/svg/banner/blackhole/Enthusiast"/></a>
+<a href="https://github.com/h-beeen"><img src="https://ishan-rest.vercel.app/svg/banner/blackhole/Backend-Enthusiast"/></a>
 
 
 <div>
@@ -8,8 +8,8 @@
       alt="Hectodata Logo"
       style="height: 1em; vertical-align: middle;"
     >
-    <p><strong>Backend Developer</strong>
-        <a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank" rel="noopener noreferrer">API Development Team</a>
+    <p><i><strong>Backend Developer</strong>&nbsp;ㆍ&nbsp;
+        <a href="https://www.hectocareers.co.kr/ko/peopleview-hd2" target="_blank" rel="noopener noreferrer">API Development Team</a></i>
     </p>
 </div>
 

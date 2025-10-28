@@ -41,4 +41,4 @@ API Development Team
 
 <br><br>
 
- <img width="100%" src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,mongodb,aws,docker,git,github,githubactions,grafana,jenikns" alt="Tech Stack" /> 
+[//]: # ( <img width="100%" src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,mongodb,aws,docker,git,github,githubactions,grafana,jenikns" alt="Tech Stack" /> )

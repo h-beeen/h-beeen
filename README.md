@@ -15,12 +15,13 @@
 
 <br>
 
-[2024-02] ***3rd Place 🎖️*** GDSC | 2024 New Year Hackathon 🎆<br>
-[2024-03] ***2nd Place 🎖️*** kakao X goorm | 2024 Beotkkot-thon 🌸<br>
-[2024-08] ***3rd Place 🎖️*** kakao X goorm | 9oormthon Univ In Jeju 🍊<br>
-[2024-10] ***3rd Place 🎖️*** Busan | Dive 2024 Global Data Hackathon 🌏<br>
-[2024-11] ***4th Place 🎖️*** kakao X KTO | 2024 Tourism Data Competition ✈️<br>
-[2024-12] ***Finalist 🌟*** Kakao Brian Impact | Side Impact Round1 💰<br>
+<span>[2024-02] <b><i>3rd Place 🎖️</i></b> GDSC | 2024 New Year Hackathon 🎆</span><br>
+<span>[2024-03] <b><i>2nd Place 🎖️</i></b> kakao X goorm | 2024 Beotkkot-thon 🌸</span><br>
+<span>[2024-08] <b><i>3rd Place 🎖️</i></b> kakao X goorm | 9oormthon Univ In Jeju 🍊</span><br>
+<span>[2024-10] <b><i>3rd Place 🎖️</i></b> Busan | Dive 2024 Global Data Hackathon 🌏</span><br>
+<span>[2024-11] <b><i>4th Place 🎖️</i></b> kakao X KTO | 2024 Tourism Data Competition ✈️</span><br>
+<span>[2024-12] <b><i>Finalist 🌟</i></b> Kakao Brian Impact | Side Impact Round1 💰</span><br>
+
 
 <br>
 

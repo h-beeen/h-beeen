@@ -14,6 +14,8 @@
 </div>
 
 <br>
+<br>
+<br>
 
 <span><b><i>3rd Place 🎖️</i></b>&nbsp;ㆍ&nbsp;GDSC&nbsp;ㆍ&nbsp;2024 New Year Hackathon 🎆</span><br>
 <span><b><i>2nd Place 🎖️</i></b>&nbsp;ㆍ&nbsp;kakao X goorm&nbsp;ㆍ&nbsp;2024 Beotkkot-thon 🌸</span><br>

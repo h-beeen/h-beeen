@@ -2,7 +2,7 @@
   <img src="https://ishan-rest.vercel.app/svg/banner/blackhole/Backend-Enthusiast"/>
 </a>
 <br><br><br>
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <span><strong>2024-05 ~ NOW |</strong>&nbsp;&nbsp;</span>

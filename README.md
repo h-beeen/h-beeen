@@ -30,17 +30,17 @@
 
 <br>
 
-<span>👉&nbsp;&nbsp;KakaoTech YouTube ·
+<span>kakaoTech YouTube ·
 <a href="https://www.youtube.com/watch?v=AqTSrinWXNs&t=96s" target="_blank" rel="noopener noreferrer">
 Interview with Beotkkot-thon Winners
 </a>
 </span><br>
-<span>👉&nbsp;&nbsp;Goorm YouTube ·
+<span>goorm YouTube ·
 <a href="https://www.youtube.com/watch?v=-tKYqBW6Vk8&t=238s" target="_blank" rel="noopener noreferrer">
 Interview with 9oormthon Univ In Jeju Winners
 </a>
 </span><br>
-<span>👉&nbsp;&nbsp;JoongAng Ilbo · The Butter ·
+<span>JoongAng Ilbo · The Butter ·
 <a href="https://www.thebutter.org/news/articleView.html?idxno=1108" target="_blank" rel="noopener noreferrer">
 What “Side Impact” Left for Us
 </a>

@@ -1,5 +1,5 @@
 <a href="https://github.com/h-beeen" target="_blank" rel="noopener noreferrer">
-  <img src="/song.svg" alt="spotify-github-profile" align="right" height="300" style="margin-left:20px;">
+  <img src="/song2.svg" alt="spotify-github-profile" align="right" height="300" style="margin-left:20px;">
 </a>
 
 <span><strong>2024-05 ~ NOW |</strong>&nbsp;&nbsp;<img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png" alt="Hectodata Logo" style="height: 13px; vertical-align: middle;">

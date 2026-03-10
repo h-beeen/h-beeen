@@ -3,7 +3,7 @@
 </a>
 
 <span><strong>2024-05 ~ 2026-03 |</strong>&nbsp;&nbsp;<a href="https://hectodata.co.kr/"/><img src="https://velog.velcdn.com/images/h-beeen/post/7b7f8734-5bb0-4e73-bb94-a03793cc5131/image.png" alt="Hectodata Logo" style="height: 13px; vertical-align: middle;"></a>
-<span>&nbsp;&nbsp;<strong>@codef-io</strong>&nbsp;&nbsp;(1Y 9M)<br><i><strong>Backend Developer</strong>
+<span>&nbsp;&nbsp;<strong>@codef-io</strong><br><i><strong>Backend Developer</strong>
 </a>
 </i>
 </span>
